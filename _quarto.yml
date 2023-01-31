@@ -16,7 +16,7 @@ website:
       
 format:
   html:
-    theme: darkly
+    theme: solar
     css: bootstrap.min.css
     toc: true
 
