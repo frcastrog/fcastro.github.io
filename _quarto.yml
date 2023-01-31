@@ -19,6 +19,9 @@ format:
     theme: solar
     css: bootstrap.min.css
     toc: true
+    
+page-footer:
+  left: Made with Quarto
 
 editor: visual
 
