@@ -6,7 +6,7 @@ title: "Research"
 
 ::: columns
 ::: {.column width="50%"}
-![](images/image-224840883.png){width="300"}
+![](images/image-224840883.png){width="350"}
 :::
 
 ::: {.column width="50%"}
@@ -16,6 +16,12 @@ In my doctoral dissertation, I explore the relationship between social movements
 
 ## Working Papers
 
+::: columns
+::: {.column width="50%"}
+![](images/image-1997234437.png){width="350"}
+:::
+
+::: {.column width="50%"}
 The backlash of state coercion: Varieties of repression and their effect on mobilization (Under Review)
 
 Do protests change voting behavior? Electoral trends in the aftermath of contention (coauthored with Renata Retamal)
@@ -23,9 +29,19 @@ Do protests change voting behavior? Electoral trends in the aftermath of content
 Can transitional justice improve regime perceptions? Reconciliation processes and their effect on public opinion (coauthored with Dilan Gunes)
 
 Criminalizing activism: The use of legal means to prosecute protesters (coauthored with Sebastián Galleguillos)
+:::
+:::
 
 ## Published Work
 
+::: columns
+::: {.column width="50%"}
+![](images/image-1825286005.png){width="350"}
+:::
+
+::: {.column width="50%"}
 Between Social Protests and a Global Pandemic: Working Transitions under the Economic Effects of COVID-19 (coauthored with Valentina Rivera)
 
 State Capacity: Perceptions within Chile (coauthored with Carolina Acevedo)
+:::
+:::
