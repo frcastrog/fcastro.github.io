@@ -12,6 +12,7 @@ website:
         text: Home
       - resume.qmd
       - research.qmd
+      - teaching.qmd
       
 format:
   html:
