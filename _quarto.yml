@@ -1,5 +1,25 @@
 project:
-  title: "fcastro-website"
+  type: website
+  output-dir: docs
+
+website:
+  title: "Francisca Castro"
+  site-url: "https://francisca-castro.com"
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - resume.qmd
+      - research.qmd
+      
+
+format:
+  html:
+    theme: darkly
+    css: bootstrap.min.css
+    toc: true
 
 editor: visual
 
