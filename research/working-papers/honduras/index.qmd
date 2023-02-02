@@ -1,0 +1,59 @@
+---
+title: "The mobilizing potential of mass migration: Experimental evidence from Honduras"
+date: 2023-01-31
+author:
+  - name: Jesse Acevedo
+    url: https://www.j-acevedo.com/
+    orcid: 0000-0002-2897-6457
+    affiliation: University of Denver
+  - name: Francisca Castro
+    url: https://francisca-castro.com
+    orcid: 0000-0002-9547-0130
+    affiliation: Humboldt-Universität zu Berlin
+#categories:
+#  - Human rights
+#  - Civil society
+#  - NGO regulations
+#  - COVID-19
+  
+#pub-info:
+#  reference:
+#  links:
+#    - name: PDF
+#      url: acevedo-castro-honduras.pdf
+#      local: true
+#      icon: fa-solid fa-file-pdf
+#    - name: Code
+#      url: https://github.com/andrewheiss/covid-derogations
+#      icon: fa-brands fa-github
+#  extra: >-
+#    Presented at a workshop on “The Implications of COVID-19 for Civic Spaces: Assessing Data, Patterns and Trends,” Leibniz-Institut Hessische Stiftung Friedens- und Konfliktforschung (HSFK), online, March 2021
+pub-status: 
+  status: Writing
+  class: warning
+  icon: fa-solid fa-pencil
+#   status: Under review
+#   class: success
+#   icon: fas fa-glasses
+---
+
+## Important links
+
+- {{< fa file-pdf >}} [Paper (preprint)](acevedo-castro-honduras.pdf)
+- <i class="fa-brands fa-github"></i> [GitHub repository]()
+
+
+## Abstract
+
+Can mass migration foster public support for anti-government demonstrations? Scholarly research has produced mixed results on the effect of emigration on political protests and mobilization. In this paper, we focus on whether the framing of migration as a private or public act influences support for and participation in protests. Using a survey experiment conducted in Honduras, we assess how the migrant caravan, framed as a public exit, affected public opinion about protests in 2021. We find that a private framing of migration is more likely to produce support for protests. The treatment effects are stronger when respondents have strong disapproval of the incumbent, live close to a highway, and lack transnational linkages. Our findings contribute to a better understanding of the circumstances under which migration serves as a safety valve to reduce dissidence, and when it has a backlash effect, contributing to anti-government mobilization.
+
+
+## BibTeX citation
+
+```bibtex
+@unpublished{AcevedoCastro2023,
+    Author = {Jesse Acevedo and Francisca Castro},
+    Note = {Working paper},
+    Title = {The mobilizing potential of mass migration: Experimental evidence from Honduras},
+    Year = {2022}}
+```

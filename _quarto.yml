@@ -14,7 +14,8 @@ website:
       - href: index.qmd
         text: Home
       - resume.qmd
-      - research.qmd
+      - text: Research
+        file: research/index.qmd
       - teaching.qmd
       
 format:

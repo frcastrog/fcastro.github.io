@@ -1,0 +1,60 @@
+---
+title: "State Capacity: Perceptions within Chile"
+date: 2016-05-01
+author:
+  - name: Carolina Acevedo
+    orcid: 0000-0002-8881-4038
+    affiliation: Universidad Católica de Temuco
+  - name: Francisca Castro
+    url: https://francisca-castro.com
+    orcid: 0000-0002-9547-0130
+    affiliation: Humboldt-Universität zu Berlin
+#categories:
+#  - Human rights
+#  - Civil society
+#  - NGO regulations
+#  - COVID-19
+  
+#pub-info:
+#  reference:
+#  links:
+#    - name: PDF
+#      url: acevedo-castro-honduras.pdf
+#      local: true
+#      icon: fa-solid fa-file-pdf
+#    - name: Code
+#      url: https://github.com/andrewheiss/covid-derogations
+#      icon: fa-brands fa-github
+#  extra: >-
+#    Presented at a workshop on “The Implications of COVID-19 for Civic Spaces: Assessing Data, Patterns and Trends,” Leibniz-Institut Hessische Stiftung Friedens- und Konfliktforschung (HSFK), online, March 2021
+pub-status: 
+  status: Writing
+  class: warning
+  icon: fa-solid fa-pencil
+#   status: Under review
+#   class: success
+#   icon: fas fa-glasses
+---
+
+## Important links
+
+-   {{< fa file-pdf >}} [Full Report](https://www.vanderbilt.edu/lapop/chile/AB2014_Chile_Country_Report_V3_Rev_W_060217.pdf)
+
+## Abstract
+
+El presente capítulo busca discutir sobre el Estado y la provisión estatal en Chile. Tal como se realizó en LAPOP 2012, la definición de capacidad estatal estará limitada o entendida en sus términos mínimos, es decir, como la capacidad del Estado de proveer bienes y servicios públicos. La base fundamental tanto del año 2012 como del presente año, es que la capacidad del Estado se ha mostrado heterogénea no sólo a niveles comparados entre países, sino que también a niveles sub-nacionales. Sumado a lo anterior, -y al igual que lo demostrado en el anterior informe (LAPOP 2012)- se establece que no sólo existen diferencias entre los países, sino que también dentro de los países.
+
+## BibTeX citation
+
+``` bibtex
+@incollection{AcevedoCastro2016,
+author = {Acevedo, Carolina and Castro, Francisca},
+booktitle = {Cultura pol{\'{i}}tica de la democracia en Chile y en las Am{\'{e}}ricas, 2014: ¿Tiempo de Reformas?},
+editor = {{Toro Maureira}, Sergio and Acevedo, Carolina and Jaramillo-Braun, Nathalie and Zechmeister, Elizabeth J. and Luna, Juan Pablo},
+pages = {151--172},
+publisher = {Vanderbilt University},
+title = {{Capacidad Estatal: Percepciones dentro de Chile}},
+url = {https://www.vanderbilt.edu/lapop/chile/AB2014{\_}Chile{\_}Country{\_}Report{\_}V3{\_}Rev{\_}W{\_}060217.pdf},
+year = {2016}
+}
+```
