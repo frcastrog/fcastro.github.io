@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Francisca Castro"
-  google-analytics: G-0W2PBTWYQ6
+  google-analytics: "G-0W2PBTWYQ6"
   site-url: "https://francisca-castro.com"
   page-footer:
     left: "Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)"
