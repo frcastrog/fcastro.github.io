@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Francisca Castro"
+  google-analytics: G-0W2PBTWYQ6
   site-url: "https://francisca-castro.com"
   page-footer:
     left: "Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)"
@@ -24,8 +25,6 @@ format:
     css: bootstrap.min.css
     toc: true
     
-google_analytics: G-0W2PBTWYQ6
-
 
 editor: visual
 
