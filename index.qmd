@@ -9,7 +9,7 @@ about:
       href: https://twitter.com/fcastro_g
     - icon: envelope
       text: email
-      href: mailto:francisca-castro@hu-berlin.de
+      href: mailto:francisca.castro@hu-berlin.de
 ---
 
 My name is Francisca Castro and I'm a PhD Candidate in Political Science at the Berlin Graduate School of Social Sciences (BGSS). I work as a [Research Fellow](https://www.google.com/url?q=https%3A%2F%2Fwww.sowi.hu-berlin.de%2Fen%2Flehrbereiche-en%2Finternational-politics%2FTeam%2Fstaff%2F1693006&sa=D&sntz=1&usg=AOvVaw1gEFEgsim-dhjHX84OvwLC) in the Chair of International Politics at the Institute of Social Sciences of Humboldt-Universität zu Berlin, Germany.
