@@ -6,7 +6,7 @@ about:
   links:
     - icon: twitter
       text: twitter
-      href: https://wwww.twitter.com/fcastro_g
+      href: https://twitter.com/fcastro_g
     - icon: envelope
       text: email
       href: mailto:francisca.castro@hu-berlin.de
