@@ -6,12 +6,18 @@ about:
   links:
     - icon: twitter
       text: twitter
-      href: https://twitter.com/fcastro_g
+      href: https://wwww.twitter.com/fcastro_g
     - icon: envelope
       text: email
       href: mailto:francisca.castro@hu-berlin.de
 ---
 
+<<<<<<< HEAD
 My name is Francisca Castro and I'm a PhD Candidate in Political Science at the Berlin Graduate School of Social Sciences (BGSS). I work as a [Research Fellow](https://www.sowi.hu-berlin.de/en/lehrbereiche-en/international-politics/Team/staff/1693006) in the Chair of International Politics at the Institute of Social Sciences of Humboldt-Universität zu Berlin, Germany.
+=======
+My name is Francisca Castro and I'm a PhD Candidate in Political Science at the Berlin Graduate School of Social Sciences (BGSS).
+
+I work as a [Research Fellow](https://www.google.com/url?q=https%3A%2F%2Fwww.sowi.hu-berlin.de%2Fen%2Flehrbereiche-en%2Finternational-politics%2FTeam%2Fstaff%2F1693006&sa=D&sntz=1&usg=AOvVaw1gEFEgsim-dhjHX84OvwLC) in the Chair of International Politics at the Institute of Social Sciences of Humboldt-Universität zu Berlin, Germany.
+>>>>>>> 6ce23468b6f3407a9d61990f7ed89b82896d2672
 
 My research interests are intrastate conflict, protests and social movements, state repression, and democratic backsliding.
