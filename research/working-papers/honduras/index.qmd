@@ -1,6 +1,6 @@
 ---
 title: "The mobilizing potential of mass migration: Experimental evidence from Honduras"
-date: 2023-01-31
+date: 2023-05-12
 author:
   - name: Jesse Acevedo
     url: https://www.j-acevedo.com/
@@ -39,12 +39,12 @@ pub-status:
 
 ## Important links
 
--   {{< fa file-pdf >}} [Paper (preprint)](acevedo-castro-honduras.pdf)
+-   {{< fa file-pdf >}} [Paper (preprint)](acevedo-castro-honduras_v2.pdf)
 -   <i class="fa-brands fa-github"></i> [GitHub repository]()
 
 ## Abstract
 
-Can mass migration foster public support for anti-government demonstrations? Scholarly research has produced mixed results on the effect of emigration on political protests and mobilization. In this paper, we focus on whether the framing of migration as a private or public act influences support for and participation in protests. Using a survey experiment conducted in Honduras, we assess how the migrant caravan, framed as a public exit, affected public opinion about protests in 2021. We find that a private framing of migration is more likely to produce support for protests. The treatment effects are stronger when respondents have strong disapproval of the incumbent, live close to a highway, and lack transnational linkages. Our findings contribute to a better understanding of the circumstances under which migration serves as a safety valve to reduce dissidence, and when it has a backlash effect, contributing to anti-government mobilization.
+Migrating can be a deeply personal and private decision made by individuals and their families. But when mass migration occurs, it can be an indicator of collective discontent and grievances. In fragile political settings, can mass migration also foster support for other manifestations of discontent, such as anti-government demonstrations? In this paper, we focus on whether the framing of migration as a private or public act influences support for and participation in protests. Using a survey experiment conducted in Honduras, we assess how the migrant caravan, framed as a public exit in the form of a caravan, affected public opinion about protests in 2021. We find that, when framed as a private act, migration produces protest support. This result is explained by the non-disruptive character of private migration. Our findings contribute to a better understanding of the circumstances under which migration serves as a safety valve to reduce dissidence, and when it has a backlash effect, fostering anti-government mobilization.
 
 ## BibTeX citation
 
@@ -53,5 +53,5 @@ Can mass migration foster public support for anti-government demonstrations? Sch
     Author = {Jesse Acevedo and Francisca Castro},
     Note = {Working paper},
     Title = {The mobilizing potential of mass migration: Experimental evidence from Honduras},
-    Year = {2022}}
+    Year = {2023}}
 ```
