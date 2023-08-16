@@ -1,6 +1,6 @@
 ---
-title: "The mobilizing potential of mass migration: Experimental evidence from Honduras"
-date: 2023-05-12
+title: "The Mobilizing Potential of Mass Migration: Experimental Evidence from Honduras"
+date: 2023-08-16
 author:
   - name: Jesse Acevedo
     url: https://www.j-acevedo.com/
@@ -52,6 +52,6 @@ Does mass emigration encourage or undermine protests? Emigration, being a person
 @unpublished{AcevedoCastro2023,
     Author = {Jesse Acevedo and Francisca Castro},
     Note = {Working paper},
-    Title = {The mobilizing potential of mass migration: Experimental evidence from Honduras},
+    Title = {The Mobilizing Potential of Mass Migration: Experimental Evidence from Honduras},
     Year = {2023}}
 ```
