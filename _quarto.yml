@@ -7,7 +7,7 @@ website:
   google-analytics: "G-0W2PBTWYQ6"
   site-url: "https://francisca-castro.com"
   page-footer:
-    left: "Made with {{< fa brands r-project >}} & [Quarto](https://quarto.org/), by Francisca Castro"
+    left: "Made with {{< fa brands r-project >}} & [Quarto](https://quarto.org/) by Francisca Castro"
     right: "[View the source at {{< fa brands github >}} GitHub](https://github.com/frcastrog/fcastro.github.io)"
   navbar:
     pinned: true
