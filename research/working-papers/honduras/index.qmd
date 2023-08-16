@@ -39,7 +39,7 @@ pub-status:
 
 ## Important links
 
--   {{< fa file-pdf >}} [Paper (preprint)](acevedo-castro-honduras.pdf)
+-   {{< fa file-pdf >}} [Paper (preprint)](acevedo-castro-honduras-v2.pdf)
 -   <i class="fa-brands fa-github"></i> [GitHub repository]()
 
 ## Abstract
