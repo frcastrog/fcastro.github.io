@@ -1,6 +1,6 @@
 ---
-title: "The mobilizing potential of mass migration: Experimental evidence from Honduras"
-date: 2023-05-12
+title: "The Mobilizing Potential of Mass Migration: Experimental Evidence from Honduras"
+date: 2023-08-16
 author:
   - name: Jesse Acevedo
     url: https://www.j-acevedo.com/
@@ -39,12 +39,12 @@ pub-status:
 
 ## Important links
 
--   {{< fa file-pdf >}} [Paper (preprint)](acevedo-castro-honduras_v2.pdf)
+-   {{< fa file-pdf >}} [Paper (preprint)](acevedo-castro-honduras-v2.pdf)
 -   <i class="fa-brands fa-github"></i> [GitHub repository]()
 
 ## Abstract
 
-Migrating can be a deeply personal and private decision made by individuals and their families. But when mass migration occurs, it can be an indicator of collective discontent and grievances. In fragile political settings, can mass migration also foster support for other manifestations of discontent, such as anti-government demonstrations? In this paper, we focus on whether the framing of migration as a private or public act influences support for and participation in protests. Using a survey experiment conducted in Honduras, we assess how the migrant caravan, framed as a public exit in the form of a caravan, affected public opinion about protests in 2021. We find that, when framed as a private act, migration produces protest support. This result is explained by the non-disruptive character of private migration. Our findings contribute to a better understanding of the circumstances under which migration serves as a safety valve to reduce dissidence, and when it has a backlash effect, fostering anti-government mobilization.
+Does mass emigration encourage or undermine protests? Emigration, being a personal decision made by households, can potentially aggregate into a collective expression of discontent against the prevailing status quo. In this paper, we focus on whether large-scale emigration influences protest support and participation. Using a survey experiment conducted in Honduras, we assess how emigration's salience affected public opinion about anti-government demonstrations in 2021. Our findings reveal that respondents primed with information about migration expressed more favorable opinions toward protests, although their participation in demonstrations was unaffected. This study contributes to a better understanding of the link between emigration and public opinion for those who stay in their origin country, and also its limitations to mobilizing for change during periods of political turmoil.
 
 ## BibTeX citation
 
@@ -52,6 +52,6 @@ Migrating can be a deeply personal and private decision made by individuals and 
 @unpublished{AcevedoCastro2023,
     Author = {Jesse Acevedo and Francisca Castro},
     Note = {Working paper},
-    Title = {The mobilizing potential of mass migration: Experimental evidence from Honduras},
+    Title = {The Mobilizing Potential of Mass Migration: Experimental Evidence from Honduras},
     Year = {2023}}
 ```
