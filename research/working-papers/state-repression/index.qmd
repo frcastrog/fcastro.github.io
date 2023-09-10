@@ -1,6 +1,6 @@
 ---
-title: "The backlash effect of state coercion: Protest resilience under visible, costly, and targeted repression"
-date: 2022-11-22
+title: "The Backlash Effect of State Coercion: Protest Resilience Under Visible, Costly, and Targeted Repression"
+date: 2023-08-25
 author:
   - name: Francisca Castro
     url: https://francisca-castro.com
@@ -23,7 +23,7 @@ author:
 #      url: https://github.com/andrewheiss/covid-derogations
 #      icon: <i class="fa-brands fa-github"></i>
 #  extra: >-
-#    Presented at a workshop on “The Implications of COVID-19 for Civic Spaces: Assessing Data, Patterns and Trends,” Leibniz-Institut Hessische Stiftung Friedens- und Konfliktforschung (HSFK), online, March 2021
+Presented at MPSA 2022 and LASA 2022: 
 pub-status: 
   status: Writing
   class: warning
@@ -42,16 +42,12 @@ pub-status:
 
 The impact of state repression on protests is puzzling. While in some cases repression can deter street mobilization, other times it backfires, increasing protest occurrence. It is unclear \textit{which} repressive actions are associated with deterrence or incitement of protest activity, and why. Using novel data on protest and repression in Chile, I study the effect of repressive actions on the occurrence of protest events. Through two-way fixed-effects models and the use of an instrumental variable, I find that police beatings and rubber bullet shots increase subsequent protest activity. Conversely, other repressive acts, such as the use of water cannons or arrests, neither incite nor discourage protests. I argue that repression backfires when it is visible, costly, and targeted: when is visible, costs are perceived and, when directed at individuals rather than a group of protesters, repression may be deemed inappropriate. These results help to understand why repression backfires, and also question whether repression is effective in reducing contentious activities in democratic contexts.
 
-## Presented at
-
--   MPSA 2022
-
 ## BibTeX citation
 
 ``` bibtex
-@unpublished{Castro2022,
+@unpublished{Castro2023,
     Author = {Francisca Castro},
     Note = {Working paper},
     Title = {The backlash effect of state coercion: Protest resilience under visible, costly, and targeted repression},
-    Year = {2022}}
+    Year = {2023}}
 ```
