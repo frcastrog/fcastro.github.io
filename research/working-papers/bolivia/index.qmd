@@ -1,6 +1,6 @@
 ---
-title: "Do protests change voting behavior? Electoral trends in the aftermath of contention"
-date: 2023-01-22
+title: "Do Protests Change Voting Behavior? Electoral Trends in the Aftermath of Contention"
+date: 2023-01-16
 author:
   - name: Francisca Castro
     url: https://francisca-castro.com
