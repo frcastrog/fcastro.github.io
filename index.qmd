@@ -10,7 +10,7 @@ about:
     - icon: github
       text: github
       href: https://github.com/frcastrog
-    - icon: graduation-cap
+    - icon: fa-graduation-cap
       text: google scholar
       href: https://scholar.google.com/citations?user=R8GnvnMAAAAJ%26hl=en
     - icon: twitter
