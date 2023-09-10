@@ -12,7 +12,7 @@ about:
       href: https://github.com/frcastrog
     - icon: graduation-cap
       text: google scholar
-      href: https://scholar.google.com/citations?user=R8GnvnMAAAAJ&hl=en
+      href: https://scholar.google.com/citations?user=R8GnvnMAAAAJ%26hl=en
     - icon: twitter
       text: twitter
       href: https://www.twitter.com/fcastro_g
