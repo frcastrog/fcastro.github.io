@@ -27,7 +27,7 @@ author:
 #      url: https://github.com/andrewheiss/covid-derogations
 #      icon: fa-brands fa-github
 #  extra: >-
-#    Presented at a workshop on “The Implications of COVID-19 for Civic Spaces: Assessing Data, Patterns and Trends,” Leibniz-Institut Hessische Stiftung Friedens- und Konfliktforschung (HSFK), online, March 2021
+Presented at APSA 2023: Panel "Protests and Social Movements in Latin America" (Full paper panel)
 pub-status: 
   status: Writing
   class: warning

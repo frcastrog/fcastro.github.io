@@ -23,7 +23,7 @@ author:
 #      url: https://github.com/andrewheiss/covid-derogations
 #      icon: <i class="fa-brands fa-github"></i>
 #  extra: >-
-Presented at MPSA 2022 and LASA 2022: 
+Presented at MPSA 2021 and LASA 2022: 
 pub-status: 
   status: Writing
   class: warning

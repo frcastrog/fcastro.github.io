@@ -26,7 +26,7 @@ author:
 #      url: https://github.com/andrewheiss/covid-derogations
 #      icon: <i class="fa-brands fa-github"></i>
 #  extra: >-
-#    Presented at a workshop on “The Implications of COVID-19 for Civic Spaces: Assessing Data, Patterns and Trends,” Leibniz-Institut Hessische Stiftung Friedens- und Konfliktforschung (HSFK), online, March 2021
+Presented at MPSA 2022 and APSA 2022: 
 pub-status: 
   status: Writing
   class: warning
@@ -43,12 +43,7 @@ pub-status:
 
 ## Abstract
 
-Can protests prompt changes in electoral behavior? In this paper, we examine variations in voter turnout and electoral preferences at the local level after a protest cycle. Using data on protest occurrence during the 2019 social mobilizations in Chile and Bolivia, we assess the impact that street demonstrations had on voting behavior in the elections that took place in the following year. Through a difference-in-differences design, we found that protests both increased turnout and changed electoral preferences. We argue that the rise in turnout is explained by the surge in political efficacy that emerged from the protests. Additionally, the protests generated a signaling effect, causing municipalities that had protests to vote for the incumbent party to a lesser extent. Our results reinforce the importance of protests on electoral behavior, not only because they mobilize people to vote, but also because they could potentially trigger electoral punishment towards the ruling party. 
-
-## Presented at
-
-- APSA 2022
-- MPSA 2022
+Can protests prompt changes in electoral behavior? In this paper, we examine variations in voter turnout and electoral preferences at the local level after a protest cycle. Using data on protest occurrence during the 2019 social mobilizations in Chile and Bolivia, we assess the impact that street demonstrations had on voting behavior in the elections that took place in the following year. Through a difference-in-differences design, we found that protests both increased turnout and changed electoral preferences. We argue that the rise in turnout is explained by the surge in political efficacy that emerged from the protests. Additionally, the protests generated a signaling effect, causing municipalities that had protests to vote for the incumbent party to a lesser extent. Our results reinforce the importance of protests on electoral behavior, not only because they mobilize people to vote, but also because they could potentially trigger electoral punishment towards the ruling party.
 
 ## BibTeX citation
 
