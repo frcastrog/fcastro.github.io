@@ -93,23 +93,23 @@
   {
     "objectID": "research/working-papers/state-repression/index.html",
     "href": "research/working-papers/state-repression/index.html",
-    "title": "The Backlash Effect of State Coercion: Protest Resilience Under Visible, Costly, and Targeted Repression",
+    "title": "The Backlash Effect of State Coercion: Protest Resilience Under Costly and Targeted Repression",
     "section": "",
     "text": "Paper (preprint)\n GitHub repository"
   },
   {
     "objectID": "research/working-papers/state-repression/index.html#abstract",
     "href": "research/working-papers/state-repression/index.html#abstract",
-    "title": "The Backlash Effect of State Coercion: Protest Resilience Under Visible, Costly, and Targeted Repression",
+    "title": "The Backlash Effect of State Coercion: Protest Resilience Under Costly and Targeted Repression",
     "section": "Abstract",
-    "text": "Abstract\nThe impact of state repression on protests is puzzling. While in some cases repression can deter street mobilization, other times it backfires, increasing protest occurrence. It is unclear repressive actions are associated with deterrence or incitement of protest activity, and why. Using novel data on protest and repression in Chile, I study the effect of repressive actions on the occurrence of protest events. Through two-way fixed-effects models and the use of an instrumental variable, I find that police beatings and rubber bullet shots increase subsequent protest activity. Conversely, other repressive acts, such as the use of water cannons or arrests, neither incite nor discourage protests. I argue that repression backfires when it is visible, costly, and targeted: when is visible, costs are perceived and, when directed at individuals rather than a group of protesters, repression may be deemed inappropriate. These results help to understand why repression backfires, and also question whether repression is effective in reducing contentious activities in democratic contexts."
+    "text": "Abstract\nThe relationship between state repression and protest mobilization presents a complex puzzle. Repression can sometimes deter street protests, yet in other instances, it paradoxically intensifies them. Focusing on Chile, this study analyzes the variable effects of repression tactics. Short-term data show arrests and beatings often increase protests, while rubber bullets exhibit a deterrent effect. The findings are contextualized within a theoretical framework that emphasizes the interplay between the costs associated with repression and their degree of targeting. This approach sheds light on the mechanisms behind the backfiring of repression and questions its efficacy in curbing dissent, particularly in democratic settings."
   },
   {
     "objectID": "research/working-papers/state-repression/index.html#bibtex-citation",
     "href": "research/working-papers/state-repression/index.html#bibtex-citation",
-    "title": "The Backlash Effect of State Coercion: Protest Resilience Under Visible, Costly, and Targeted Repression",
+    "title": "The Backlash Effect of State Coercion: Protest Resilience Under Costly and Targeted Repression",
     "section": "BibTeX citation",
-    "text": "BibTeX citation\n@unpublished{Castro2023,\n    Author = {Francisca Castro},\n    Note = {Working paper},\n    Title = {The backlash effect of state coercion: Protest resilience under visible, costly, and targeted repression},\n    Year = {2023}}"
+    "text": "BibTeX citation\n@unpublished{Castro2024,\n    Author = {Francisca Castro},\n    Note = {Working paper},\n    Title = {The backlash effect of state coercion: Protest Resilience Under Costly and Targeted Repression},\n    Year = {2024}}"
   },
   {
     "objectID": "research/working-papers/state-repression/index.html#presented-at",
@@ -123,7 +123,7 @@
     "href": "research/index.html#working-papers",
     "title": "Research",
     "section": "Working papers",
-    "text": "Working papers\n\n\n\n\n\n\nDo Protests Change Voting Behavior? Electoral Trends in the Aftermath of Contention\n\n\n\n\n\n\n\n\n\n\n\n\nSep 19, 2023\n\n\nFrancisca Castro, Renata Retamal\n\n\n\n\n\n\n\n\nThe Backlash Effect of State Coercion: Protest Resilience Under Visible, Costly, and Targeted Repression\n\n\n\n\n\n\n\n\n\n\n\n\nAug 25, 2023\n\n\nFrancisca Castro\n\n\n\n\n\n\n\n\nThe Mobilizing Potential of Mass Migration: Experimental Evidence from Honduras\n\n\n\n\n\n\n\n\n\n\n\n\nAug 16, 2023\n\n\nJesse Acevedo, Francisca Castro\n\n\n\n\n\n\nNo matching items"
+    "text": "Working papers\n\n\n\n\n  \n\n\n\n\nDo Protests Change Voting Behavior? Electoral Trends in the Aftermath of Contention\n\n\n\n\n\n\n\n\n\n\n\n\nSep 19, 2023\n\n\nFrancisca Castro, Renata Retamal\n\n\n\n\n\n\n  \n\n\n\n\nThe Backlash Effect of State Coercion: Protest Resilience Under Costly and Targeted Repression\n\n\n\n\n\n\n\n\n\n\n\n\nAug 25, 2023\n\n\nFrancisca Castro\n\n\n\n\n\n\n  \n\n\n\n\nThe Mobilizing Potential of Mass Migration: Experimental Evidence from Honduras\n\n\n\n\n\n\n\n\n\n\n\n\nAug 16, 2023\n\n\nJesse Acevedo, Francisca Castro\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/index.html",
@@ -236,5 +236,19 @@
     "title": "Office Hours",
     "section": "",
     "text": "Please fill out the form below to register for my office hours.\n\nName: \nEmail: \nPreferred Time: \n 9:00 AM 10:00 AM"
+  },
+  {
+    "objectID": "research/working-papers/state-repression/index.html#important-links",
+    "href": "research/working-papers/state-repression/index.html#important-links",
+    "title": "The Backlash Effect of State Coercion: Protest Resilience Under Costly and Targeted Repression",
+    "section": "",
+    "text": "Paper (preprint)\n GitHub repository"
+  },
+  {
+    "objectID": "research/index.html#journal-articles",
+    "href": "research/index.html#journal-articles",
+    "title": "Research",
+    "section": "",
+    "text": "Apr 20, 2021\n\n\nValentina Rivera, Francisca Castro\n\n\n\n\n\n\nNo matching items"
   }
 ]

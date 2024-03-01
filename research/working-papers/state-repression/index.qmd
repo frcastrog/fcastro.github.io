@@ -1,5 +1,5 @@
 ---
-title: "The Backlash Effect of State Coercion: Protest Resilience Under Visible, Costly, and Targeted Repression"
+title: "The Backlash Effect of State Coercion: Protest Resilience Under Costly and Targeted Repression"
 date: 2023-08-25
 author:
   - name: Francisca Castro
@@ -40,14 +40,14 @@ pub-status:
 
 ## Abstract
 
-The impact of state repression on protests is puzzling. While in some cases repression can deter street mobilization, other times it backfires, increasing protest occurrence. It is unclear \textit{which} repressive actions are associated with deterrence or incitement of protest activity, and why. Using novel data on protest and repression in Chile, I study the effect of repressive actions on the occurrence of protest events. Through two-way fixed-effects models and the use of an instrumental variable, I find that police beatings and rubber bullet shots increase subsequent protest activity. Conversely, other repressive acts, such as the use of water cannons or arrests, neither incite nor discourage protests. I argue that repression backfires when it is visible, costly, and targeted: when is visible, costs are perceived and, when directed at individuals rather than a group of protesters, repression may be deemed inappropriate. These results help to understand why repression backfires, and also question whether repression is effective in reducing contentious activities in democratic contexts.
+The relationship between state repression and protest mobilization presents a complex puzzle. Repression can sometimes deter street protests, yet in other instances, it paradoxically intensifies them. Focusing on Chile, this study analyzes the variable effects of repression tactics. Short-term data show arrests and beatings often increase protests, while rubber bullets exhibit a deterrent effect. The findings are contextualized within a theoretical framework that emphasizes the interplay between the costs associated with repression and their degree of targeting. This approach sheds light on the mechanisms behind the backfiring of repression and questions its efficacy in curbing dissent, particularly in democratic settings.
 
 ## BibTeX citation
 
 ``` bibtex
-@unpublished{Castro2023,
+@unpublished{Castro2024,
     Author = {Francisca Castro},
     Note = {Working paper},
-    Title = {The backlash effect of state coercion: Protest resilience under visible, costly, and targeted repression},
-    Year = {2023}}
+    Title = {The backlash effect of state coercion: Protest Resilience Under Costly and Targeted Repression},
+    Year = {2024}}
 ```
