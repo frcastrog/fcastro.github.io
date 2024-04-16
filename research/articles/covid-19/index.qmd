@@ -38,29 +38,26 @@ pub-status:
 
 ## Important links
 
-- {{< fa file-pdf >}} [Paper (Open Access)](https://www.mdpi.com/2076-0760/10/4/145)
-
+-   {{< fa file-pdf >}} [Paper (Open Access)](https://www.mdpi.com/2076-0760/10/4/145)
 
 ## Abstract
 
 Emerging research on the economic consequences of the COVID-19 pandemic draws attention to the labor effects of the crisis in the Global South. Developing countries show high levels of labor informality, where most workers cannot work from home and depend on daily income. In addition, the scarce and late state aid makes it difficult for workers to cope with the economic hardships caused by the pandemic. This research explores the employment trajectories of workers throughout the ongoing pandemic in Chile: a neoliberal country with a strong male breadwinner culture and high levels of income inequality. Using longitudinal non-probabilistic data for Chilean employment, this study finds that men lost their jobs to a lesser extent and returned to the labor market faster than women. Likewise, male workers with family (with a partner and young children) remained employed in a higher proportion than female workers with family, and most of these women shifted from employment into care work. The existing literature already pointed out how economic crises can have adverse effects on progress towards gender equality, and the current economic crisis seems to be no exception. Labor informality and low-skilled jobs were highly related to unemployment during the first months of COVID in Chile. These are important variables in a developing economy such as Chile, where around one-third of the population works under these conditions. This article concludes by reflecting on the importance of addressing the present crisis and future economic recovery with a gender perspective.
 
-
 ## BibTeX citation
 
-```bibtex
+``` bibtex
 @article{RiveraCastro2021,
-	article-number = {145},
-	author = {Rivera, Valentina and Castro, Francisca},
-	doi = {10.3390/socsci10040145},
-	issn = {2076-0760},
-	journal = {Social Sciences},
-	number = {4},
-	title = {Between Social Protests and a Global Pandemic: Working Transitions under the Economic Effects of COVID-19},
-	url = {https://www.mdpi.com/2076-0760/10/4/145},
-	volume = {10},
-	year = {2021},
-	bdsk-url-1 = {https://www.mdpi.com/2076-0760/10/4/145},
-	bdsk-url-2 = {https://doi.org/10.3390/socsci10040145}}
-
+    article-number = {145},
+    author = {Rivera, Valentina and Castro, Francisca},
+    doi = {10.3390/socsci10040145},
+    issn = {2076-0760},
+    journal = {Social Sciences},
+    number = {4},
+    title = {Between Social Protests and a Global Pandemic: Working Transitions under the Economic Effects of COVID-19},
+    url = {https://www.mdpi.com/2076-0760/10/4/145},
+    volume = {10},
+    year = {2021},
+    bdsk-url-1 = {https://www.mdpi.com/2076-0760/10/4/145},
+    bdsk-url-2 = {https://doi.org/10.3390/socsci10040145}}
 ```

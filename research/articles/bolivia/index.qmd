@@ -1,0 +1,64 @@
+---
+title: "Does electoral behavior change after a protest cycle? Evidence from Chile and Bolivia"
+date: 2024-04-16
+author:
+  - name: Francisca Castro
+    url: https://francisca-castro.com
+    orcid: 0000-0002-9547-0130
+    affiliation: Humboldt-Universität zu Berlin
+  - name: Renata Retamal
+    orcid: 0000-0001-7282-5122
+    affiliation: Universidad de Chile
+#categories:
+#  - Human rights
+#  - Civil society
+#  - NGO regulations
+#  - COVID-19
+  
+#pub-info:
+#  reference:
+#  links:
+#    - name: PDF
+#      url: acevedo-castro-honduras.pdf
+#      local: true
+#      icon: fa-solid fa-file-pdf
+#    - name: Code
+#      url: https://github.com/andrewheiss/covid-derogations
+#      icon: <i class="fa-brands fa-github"></i>
+#  extra: >-
+Presented at MPSA 2022, EPSA 2022, and APSA 2022: 
+pub-status: 
+  status: Published
+  class: Published
+  icon: fa-solid fa-pencil
+#   status: Under review
+#   class: success
+#   icon: fas fa-glasses
+---
+
+## Important links
+
+-   {{< fa file-pdf >}} [Published Version](https://www.sciencedirect.com/science/article/pii/S0261379424000350#appSB)
+-   <i class="fa-brands fa-github"></i> [GitHub repository](https://github.com/frcastrog/bolivia-elections)
+
+## Abstract
+
+Can protests prompt changes in electoral behavior? In this paper, we examine variations in voter turnout and electoral preferences at the local level after a protest cycle. Using data on protest occurrence during the 2019 social mobilizations in Chile and Bolivia, we assess the impact that street demonstrations had on voting behavior in the elections that took place in the following year. Through a difference-in-differences design, we found that protests both increased turnout and changed electoral preferences. We argue that the rise in turnout is explained by the surge in political efficacy that emerged from the protests. Additionally, the protests generated a signaling effect, causing municipalities that had protests to vote for the incumbent party to a lesser extent. Our results reinforce the importance of protests on electoral behavior, not only because they mobilize people to vote, but also because they could potentially trigger electoral punishment towards the ruling party.
+
+## BibTeX citation
+
+``` bibtex
+@article{Castro2014,
+title = {Does electoral behavior change after a protest cycle? Evidence from Chile and Bolivia},
+journal = {Electoral Studies},
+volume = {89},
+pages = {102777},
+year = {2024},
+issn = {0261-3794},
+doi = {https://doi.org/10.1016/j.electstud.2024.102777},
+url = {https://www.sciencedirect.com/science/article/pii/S0261379424000350},
+author = {Francisca Castro and Renata Retamal},
+keywords = {Protests, Turnout, Electoral outcomes, Voting behavior, Mobilization},
+abstract = {Can protests produce changes in electoral behavior? In this paper, we examine variations in voter turnout and electoral preferences at the local level after a protest cycle. Using data on protest occurrence during the 2019 social mobilizations in Chile and Bolivia and a difference-in-differences design, we assess the impact that street demonstrations had on voting behavior in the elections that took place the following year. We found that turnout was higher in municipalities that had protests, while the incumbent vote was lower. We argue that the effect on turnout is explained by the surge in political efficacy that emerged from the protests. Furthermore, we suggest that the protests enabled more effective blame attribution and heightened the salience of political issues, leading to changes in voter preferences. These results demonstrate the effect of protests on electoral dynamics, highlighting their role not only in mobilizing voters but also in shaping electoral preferences.}
+}
+```
