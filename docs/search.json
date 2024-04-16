@@ -123,14 +123,14 @@
     "href": "research/index.html#working-papers",
     "title": "Research",
     "section": "Working papers",
-    "text": "Working papers\n\n\n\n\n  \n\n\n\n\nDo Protests Change Voting Behavior? Electoral Trends in the Aftermath of Contention\n\n\n\n\n\n\n\n\n\n\n\n\nSep 19, 2023\n\n\nFrancisca Castro, Renata Retamal\n\n\n\n\n\n\n  \n\n\n\n\nThe Backlash Effect of State Coercion: Protest Resilience Under Costly and Targeted Repression\n\n\n\n\n\n\n\n\n\n\n\n\nAug 25, 2023\n\n\nFrancisca Castro\n\n\n\n\n\n\n  \n\n\n\n\nThe Mobilizing Potential of Mass Migration: Experimental Evidence from Honduras\n\n\n\n\n\n\n\n\n\n\n\n\nAug 16, 2023\n\n\nJesse Acevedo, Francisca Castro\n\n\n\n\n\n\nNo matching items"
+    "text": "Working papers\n\n\n\n\n\n\nThe Backlash Effect of State Coercion: Protest Resilience Under Costly and Targeted Repression\n\n\n\n\n\n\n\n\n\n\n\n\nAug 25, 2023\n\n\nFrancisca Castro\n\n\n\n\n\n\n\n\nThe Mobilizing Potential of Mass Migration: Experimental Evidence from Honduras\n\n\n\n\n\n\n\n\n\n\n\n\nAug 16, 2023\n\n\nJesse Acevedo, Francisca Castro\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/index.html",
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "Apr 20, 2021\n\n\nValentina Rivera, Francisca Castro\n\n\n\n\n\n\nNo matching items"
+    "text": "Apr 16, 2024\n\n\nFrancisca Castro, Renata Retamal\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApr 20, 2021\n\n\nValentina Rivera, Francisca Castro\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/articles/covid-19/index.html",
@@ -250,5 +250,26 @@
     "title": "Research",
     "section": "",
     "text": "Apr 20, 2021\n\n\nValentina Rivera, Francisca Castro\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/articles/bolivia/index.html",
+    "href": "research/articles/bolivia/index.html",
+    "title": "Does electoral behavior change after a protest cycle? Evidence from Chile and Bolivia",
+    "section": "",
+    "text": "Published Version\n GitHub repository"
+  },
+  {
+    "objectID": "research/articles/bolivia/index.html#abstract",
+    "href": "research/articles/bolivia/index.html#abstract",
+    "title": "Does electoral behavior change after a protest cycle? Evidence from Chile and Bolivia",
+    "section": "Abstract",
+    "text": "Abstract\nCan protests prompt changes in electoral behavior? In this paper, we examine variations in voter turnout and electoral preferences at the local level after a protest cycle. Using data on protest occurrence during the 2019 social mobilizations in Chile and Bolivia, we assess the impact that street demonstrations had on voting behavior in the elections that took place in the following year. Through a difference-in-differences design, we found that protests both increased turnout and changed electoral preferences. We argue that the rise in turnout is explained by the surge in political efficacy that emerged from the protests. Additionally, the protests generated a signaling effect, causing municipalities that had protests to vote for the incumbent party to a lesser extent. Our results reinforce the importance of protests on electoral behavior, not only because they mobilize people to vote, but also because they could potentially trigger electoral punishment towards the ruling party."
+  },
+  {
+    "objectID": "research/articles/bolivia/index.html#bibtex-citation",
+    "href": "research/articles/bolivia/index.html#bibtex-citation",
+    "title": "Does electoral behavior change after a protest cycle? Evidence from Chile and Bolivia",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@article{Castro2014,\ntitle = {Does electoral behavior change after a protest cycle? Evidence from Chile and Bolivia},\njournal = {Electoral Studies},\nvolume = {89},\npages = {102777},\nyear = {2024},\nissn = {0261-3794},\ndoi = {https://doi.org/10.1016/j.electstud.2024.102777},\nurl = {https://www.sciencedirect.com/science/article/pii/S0261379424000350},\nauthor = {Francisca Castro and Renata Retamal},\nkeywords = {Protests, Turnout, Electoral outcomes, Voting behavior, Mobilization},\nabstract = {Can protests produce changes in electoral behavior? In this paper, we examine variations in voter turnout and electoral preferences at the local level after a protest cycle. Using data on protest occurrence during the 2019 social mobilizations in Chile and Bolivia and a difference-in-differences design, we assess the impact that street demonstrations had on voting behavior in the elections that took place the following year. We found that turnout was higher in municipalities that had protests, while the incumbent vote was lower. We argue that the effect on turnout is explained by the surge in political efficacy that emerged from the protests. Furthermore, we suggest that the protests enabled more effective blame attribution and heightened the salience of political issues, leading to changes in voter preferences. These results demonstrate the effect of protests on electoral dynamics, highlighting their role not only in mobilizing voters but also in shaping electoral preferences.}\n}"
   }
 ]
