@@ -10,9 +10,9 @@ about:
     - icon: github
       text: github
       href: https://github.com/frcastrog
-    - icon: twitter
-      text: twitter
-      href: https://www.twitter.com/fcastro_g
+    - icon: cloud
+      text: bluesky
+      href: https://bsky.app/profile/fcastrog.bsky.social
 ---
 
 My name is Francisca Castro and I'm a Postdoctoral Researcher at the International Security and Development Center ([ISDC](https://isdc.org/)), where I work on conflict and vulnerability of political regimes.
