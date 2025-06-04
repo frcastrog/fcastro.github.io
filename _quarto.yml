@@ -1,7 +1,6 @@
 project:
   type: website
   output-dir: docs
-
 website:
   title: "Francisca Castro"
   google-analytics: "G-0W2PBTWYQ6"
@@ -18,13 +17,11 @@ website:
       - text: Research
         file: research/index.qmd
       - teaching.qmd
-      
+
 format:
   html:
     theme: solar
     css: bootstrap.min.css
     toc: true
-    
 
 editor: visual
-

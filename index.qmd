@@ -1,5 +1,5 @@
 ---
-website:
+title: ""
 about:
   template: trestles
   image: Castro_picture.jpeg
