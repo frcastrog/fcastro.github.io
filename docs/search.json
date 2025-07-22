@@ -151,7 +151,7 @@
     "href": "research/index.html#working-papers",
     "title": "Research",
     "section": "Working papers",
-    "text": "Working papers\n\n\n\n\n\nNo matching items"
+    "text": "Working papers\n\n\n\n\n\n\n\n\n\n\nCarrying the Past with you Across the Border: Long-term Effects of Conflict and Environmental Stress Exposure in Syria on the Social Well-being of Refugees in Jordan\n\n\n\n\n\n\n\n\n\n\n\nJun 1, 2025\n\n\nFrancisca Castro, Tilman Brück, Hadi Jaafar, Wolfgang Stojetz\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/index.html#book-chapters",
@@ -194,5 +194,33 @@
     "title": "Deterrence or Defiance? How Severity and Selectivity Shape Protest Responses to Repression",
     "section": "BibTeX citation",
     "text": "BibTeX citation\n@article{Castro2025,\n    Author = {Francisca Castro},\n    Journal = {Mobilization: An International Quarterly},\n    Note = {Forthcoming},\n    Title = {Deterrence or Defiance? How Severity and Selectivity Shape Protest Responses to Repression},\n    Year = {2025}}"
+  },
+  {
+    "objectID": "research/working-papers/jordan/index.html",
+    "href": "research/working-papers/jordan/index.html",
+    "title": "Carrying the Past with you Across the Border: Long-term Effects of Conflict and Environmental Stress Exposure in Syria on the Social Well-being of Refugees in Jordan",
+    "section": "",
+    "text": "Paper (Working Paper Version)"
+  },
+  {
+    "objectID": "research/working-papers/jordan/index.html#important-links",
+    "href": "research/working-papers/jordan/index.html#important-links",
+    "title": "Carrying the Past with you Across the Border: Long-term Effects of Conflict and Environmental Stress Exposure in Syria on the Social Well-being of Refugees in Jordan",
+    "section": "",
+    "text": "Paper (Working Paper Version)"
+  },
+  {
+    "objectID": "research/working-papers/jordan/index.html#abstract",
+    "href": "research/working-papers/jordan/index.html#abstract",
+    "title": "Carrying the Past with you Across the Border: Long-term Effects of Conflict and Environmental Stress Exposure in Syria on the Social Well-being of Refugees in Jordan",
+    "section": "Abstract",
+    "text": "Abstract\nWhen refugees flee abroad, they carry the legacy of their traumatic experiences across borders. While there are over 43 million refugees worldwide, the long-term effects of conflict exposure on their well-being remain poorly understood. This paper examines how pre-displacement exposure to violent conflict and environmental stressors shapes the long-term social well-being of Syrian refugees in Jordan, focusing on life satisfaction, social trust, and social safety nets. Using representative survey data from refugees living in Jordan and conflict events, as well as remote sensing environmental data from Syria, we distinguish between exposure to conflict events and conflict fatalities, revealing distinct effects. While exposure to conflict events has no systematic impact on social outcomes, exposure to conflict fatalities significantly reduces life satisfaction and weakens social safety nets. These effects are critically mediated by mental health, with depressive symptoms significantly explaining the negative impact of conflict fatalities on life satisfaction. Our findings also highlight gendered dimensions: individuals living in female-majority households experience particularly severe declines in life satisfaction, whereas those in male-majority households show greater deterioration in social safety nets. Having experienced droughts before leaving Syria further amplifies the negative effects of conflict, particularly on social safety nets. These results highlight the importance of considering intersecting vulnerabilities due to gender, environmental stress, and conflict exposure when designing support systems for forcibly displaced populations."
+  },
+  {
+    "objectID": "research/working-papers/jordan/index.html#bibtex-citation",
+    "href": "research/working-papers/jordan/index.html#bibtex-citation",
+    "title": "Carrying the Past with you Across the Border: Long-term Effects of Conflict and Environmental Stress Exposure in Syria on the Social Well-being of Refugees in Jordan",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@techreport{Castro2025refugees,\n   Author = {Francisca Castro and Tilman Brück and Hadi Jaafar and Wolfgang Stojetz},\n   Institution = {Households in Conflict Network (HiCN)},\n   Number = {431},\n   Title = {Carrying the Past with you Across the Border: Long-term Effects of Conflict and Environmental Stress Exposure in Syria on the Social Well-being of Refugees in Jordan},\n   Type = {Working Paper},\n   Year = {2025},\n   Month = {June}}"
   }
 ]
