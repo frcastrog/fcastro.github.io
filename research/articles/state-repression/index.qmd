@@ -45,7 +45,7 @@ State repression's effect on protest behavior is theorized to depend on two key 
 ## BibTeX citation
 
 ``` bibtex
-@article{Castro2024,
+@article{Castro2025,
     Author = {Francisca Castro},
     Journal = {Mobilization: An International Quarterly},
     Note = {Forthcoming},
