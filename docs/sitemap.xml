@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://francisca-castro.com/index.html</loc>
-    <lastmod>2025-06-15T15:04:57.431Z</lastmod>
+    <lastmod>2025-07-22T17:34:10.590Z</lastmod>
   </url>
   <url>
     <loc>https://francisca-castro.com/teaching.html</loc>
@@ -11,5 +11,13 @@
   <url>
     <loc>https://francisca-castro.com/resume.html</loc>
     <lastmod>2025-03-28T13:57:11.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://francisca-castro.com/research/articles/state-repression/index.html</loc>
+    <lastmod>2025-07-22T17:31:40.178Z</lastmod>
+  </url>
+  <url>
+    <loc>https://francisca-castro.com/research/index.html</loc>
+    <lastmod>2023-09-10T17:39:11.000Z</lastmod>
   </url>
 </urlset>

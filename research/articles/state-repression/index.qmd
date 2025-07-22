@@ -1,0 +1,54 @@
+---
+title: "Deterrence or Defiance? How Severity and Selectivity Shape Protest Responses to Repression"
+date: 2025-07-21
+author:
+  - name: Francisca Castro
+    url: https://francisca-castro.com
+    orcid: 0000-0002-9547-0130
+    affiliation: Humboldt-Universität zu Berlin
+#categories:
+#  - Human rights
+#  - Civil society
+#  - NGO regulations
+#  - COVID-19
+  
+#pub-info:
+#  reference:
+#  links:
+#    - name: PDF
+#      url: acevedo-castro-honduras.pdf
+#      local: true
+#      icon: fa-solid fa-file-pdf
+#    - name: Code
+#      url: https://github.com/andrewheiss/covid-derogations
+#      icon: <i class="fa-brands fa-github"></i>
+#  extra: >-
+Presented at MPSA 2021 and LASA 2022: 
+pub-status: 
+  status: Accepted
+  class: Accepted
+  icon: fa-solid fa-pencil
+#   status: Under review
+#   class: success
+#   icon: fas fa-glasses
+---
+
+## Important links
+
+-   {{< fa file-pdf >}} [Paper (Accepted Version)](Deterrence_or_Defiance.pdf)
+-   <i class="fa-brands fa-github"></i> [GitHub repository](https://github.com/frcastrog/police-repression)
+
+## Abstract
+
+State repression's effect on protest behavior is theorized to depend on two key dimensions: its severity (level of harm imposed) and selectivity (whether targeted or indiscriminate). While scholars have developed sophisticated theoretical frameworks around these dimensions, most empirical evidence comes from authoritarian contexts. Moreover, we lack systematic evidence about how specific combinations of severity and selectivity influence protest dynamics. Using data from Chile's 2019 protest cycle, I examine how different tactical combinations shape subsequent mobilization. Through models accounting for spatial dynamics and temporal effects, I find patterns that challenge theoretical expectations. Contrary to predictions, selective high-severity tactics generated short-term mobilization rather than deterrence, while low-severity tactics produced significant protest increases regardless of their selectivity. Survey evidence reveals that these effects operated partly through public attitudes. These findings demonstrate the need to revise theoretical frameworks around severity and selectivity, particularly in democratic contexts.
+
+## BibTeX citation
+
+``` bibtex
+@article{Castro2024,
+    Author = {Francisca Castro},
+    Journal = {Mobilization: An International Quarterly},
+    Note = {Forthcoming},
+    Title = {Deterrence or Defiance? How Severity and Selectivity Shape Protest Responses to Repression},
+    Year = {2025}}
+```

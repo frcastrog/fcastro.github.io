@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Francisca Castro",
     "section": "",
-    "text": "My name is Francisca Castro and I’m a Postdoctoral Researcher at the International Security and Development Center (ISDC), where I work on conflict and vulnerability of political regimes.\nI’m also associated to the ERC Grant Participation & Representation in the Digital Age.\nI obtained my PhD in Political Science at Humboldt-Universität zu Berlin, where I worked as a Doctoral Researcher in the Chair of International Politics.\nMy research interests are intrastate conflict, protests and social movements, state repression, democratic backsliding, and authoritarian legacies.\n\nNews & Updates\n\nWe recently published a working paper on the long-term effects of conflict exposure on Syrian refugees in Jordan. You can read it here.\nBetween June 16-18, I’ll be in Barcelona for the 2025 European Peace Science conference.\nOn June 26 I’ll present two projects at EPSA Annual Conference: one about the effects of Mexico’s abortion legislation on political attitudes, and a registered report on polarization in Kyrgyzstan using LiK Survey data."
+    "text": "My name is Francisca Castro and I’m a Postdoctoral Researcher at the International Security and Development Center (ISDC), where I work on conflict and vulnerability of political regimes.\nI’m also associated to the ERC Grant Participation & Representation in the Digital Age.\nI obtained my PhD in Political Science at Humboldt-Universität zu Berlin, where I worked as a Doctoral Researcher in the Chair of International Politics.\nMy research interests are intrastate conflict, protests and social movements, state repression, democratic backsliding, and authoritarian legacies.\n\nNews & Updates\n\nMy job market paper, Deterrence or Defiance? How Severity and Selectivity Shape Protest Responses to Repression got recently accepted for publication in Mobilization. You can read the accepted version here."
   },
   {
     "objectID": "teaching.html",
@@ -137,21 +137,21 @@
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "No matching items"
+    "text": "Jul 21, 2025\n\n\nFrancisca Castro\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApr 16, 2024\n\n\nFrancisca Castro, Renata Retamal\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApr 20, 2021\n\n\nValentina Rivera, Francisca Castro\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/index.html#journal-articles",
     "href": "research/index.html#journal-articles",
     "title": "Research",
     "section": "",
-    "text": "No matching items"
+    "text": "Jul 21, 2025\n\n\nFrancisca Castro\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApr 16, 2024\n\n\nFrancisca Castro, Renata Retamal\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApr 20, 2021\n\n\nValentina Rivera, Francisca Castro\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/index.html#working-papers",
     "href": "research/index.html#working-papers",
     "title": "Research",
     "section": "Working papers",
-    "text": "Working papers\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Working papers\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/index.html#book-chapters",
@@ -166,5 +166,33 @@
     "title": "Francisca Castro",
     "section": "News & Updates",
     "text": "News & Updates"
+  },
+  {
+    "objectID": "research/articles/state-repression/index.html",
+    "href": "research/articles/state-repression/index.html",
+    "title": "Deterrence or Defiance? How Severity and Selectivity Shape Protest Responses to Repression",
+    "section": "",
+    "text": "Paper (Accepted Version)\n GitHub repository"
+  },
+  {
+    "objectID": "research/articles/state-repression/index.html#important-links",
+    "href": "research/articles/state-repression/index.html#important-links",
+    "title": "Deterrence or Defiance? How Severity and Selectivity Shape Protest Responses to Repression",
+    "section": "",
+    "text": "Paper (Accepted Version)\n GitHub repository"
+  },
+  {
+    "objectID": "research/articles/state-repression/index.html#abstract",
+    "href": "research/articles/state-repression/index.html#abstract",
+    "title": "Deterrence or Defiance? How Severity and Selectivity Shape Protest Responses to Repression",
+    "section": "Abstract",
+    "text": "Abstract\nState repression’s effect on protest behavior is theorized to depend on two key dimensions: its severity (level of harm imposed) and selectivity (whether targeted or indiscriminate). While scholars have developed sophisticated theoretical frameworks around these dimensions, most empirical evidence comes from authoritarian contexts. Moreover, we lack systematic evidence about how specific combinations of severity and selectivity influence protest dynamics. Using data from Chile’s 2019 protest cycle, I examine how different tactical combinations shape subsequent mobilization. Through models accounting for spatial dynamics and temporal effects, I find patterns that challenge theoretical expectations. Contrary to predictions, selective high-severity tactics generated short-term mobilization rather than deterrence, while low-severity tactics produced significant protest increases regardless of their selectivity. Survey evidence reveals that these effects operated partly through public attitudes. These findings demonstrate the need to revise theoretical frameworks around severity and selectivity, particularly in democratic contexts."
+  },
+  {
+    "objectID": "research/articles/state-repression/index.html#bibtex-citation",
+    "href": "research/articles/state-repression/index.html#bibtex-citation",
+    "title": "Deterrence or Defiance? How Severity and Selectivity Shape Protest Responses to Repression",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@article{Castro2024,\n    Author = {Francisca Castro},\n    Journal = {Mobilization: An International Quarterly},\n    Note = {Forthcoming},\n    Title = {Deterrence or Defiance? How Severity and Selectivity Shape Protest Responses to Repression},\n    Year = {2025}}"
   }
 ]
