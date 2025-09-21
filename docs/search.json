@@ -151,7 +151,7 @@
     "href": "research/index.html#working-papers",
     "title": "Research",
     "section": "Working papers",
-    "text": "Working papers\n\n\n\n\n\n\n\n\n\n\nCarrying the Past with you Across the Border: Long-term Effects of Conflict and Environmental Stress Exposure in Syria on the Social Well-being of Refugees in Jordan\n\n\n\n\n\n\n\n\n\n\n\nJun 1, 2025\n\n\nFrancisca Castro, Tilman Brück, Hadi Jaafar, Wolfgang Stojetz\n\n\n\n\n\n\nNo matching items"
+    "text": "Working papers\n\n\n\n\n\n\n\n\n\n\nGuerrilla Shadows on Gender: The Lingering Effects of the Peruvian Internal Armed Conflict on Women’s Political Aspirations\n\n\n\n\n\n\n\n\n\n\n\nSep 21, 2025\n\n\nFrancisca Castro\n\n\n\n\n\n\n\n\n\n\n\n\nCarrying the Past with you Across the Border: Long-term Effects of Conflict and Environmental Stress Exposure in Syria on the Social Well-being of Refugees in Jordan\n\n\n\n\n\n\n\n\n\n\n\nJun 1, 2025\n\n\nFrancisca Castro, Tilman Brück, Hadi Jaafar, Wolfgang Stojetz\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/index.html#book-chapters",
@@ -222,5 +222,33 @@
     "title": "Carrying the Past with you Across the Border: Long-term Effects of Conflict and Environmental Stress Exposure in Syria on the Social Well-being of Refugees in Jordan",
     "section": "BibTeX citation",
     "text": "BibTeX citation\n@techreport{Castro2025refugees,\n   Author = {Francisca Castro and Tilman Brück and Hadi Jaafar and Wolfgang Stojetz},\n   Institution = {Households in Conflict Network (HiCN)},\n   Number = {431},\n   Title = {Carrying the Past with you Across the Border: Long-term Effects of Conflict and Environmental Stress Exposure in Syria on the Social Well-being of Refugees in Jordan},\n   Type = {Working Paper},\n   Year = {2025},\n   Month = {June}}"
+  },
+  {
+    "objectID": "research/working-papers/peru/index.html",
+    "href": "research/working-papers/peru/index.html",
+    "title": "Guerrilla Shadows on Gender: The Lingering Effects of the Peruvian Internal Armed Conflict on Women’s Political Aspirations",
+    "section": "",
+    "text": "Paper (Working Paper Version)"
+  },
+  {
+    "objectID": "research/working-papers/peru/index.html#important-links",
+    "href": "research/working-papers/peru/index.html#important-links",
+    "title": "Guerrilla Shadows on Gender: The Lingering Effects of the Peruvian Internal Armed Conflict on Women’s Political Aspirations",
+    "section": "",
+    "text": "Paper (Working Paper Version)"
+  },
+  {
+    "objectID": "research/working-papers/peru/index.html#abstract",
+    "href": "research/working-papers/peru/index.html#abstract",
+    "title": "Guerrilla Shadows on Gender: The Lingering Effects of the Peruvian Internal Armed Conflict on Women’s Political Aspirations",
+    "section": "Abstract",
+    "text": "Abstract\nHow does political violence affect women’s electoral aspirations? This study examines the impact of Peru’s Internal Armed Conflict on women’s political representation using Truth and Reconciliation Commission data combined with municipal electoral records from six election cycles (1980-1995). Employing TWFE models that exploit within-district temporal variation in violence exposure, I distinguish between recent violence and cumulative violence exposure since 1980. Results reveal that violence affects women’s electoral success but not candidacy rates. Recent violence increases women’s chances of winning office by 8.4 percentage points, while cumulative violence reduces electoral success by 3.3 percentage points. Effects vary significantly by perpetrator: Shining Path violence increases women’s electoral prospects, while state violence shows negative effects. These patterns persist decades after the conflict ended, with only Shining Path violence legacies continuing to reduce women’s political advancements through 2022, while state violence shows no lingering effects."
+  },
+  {
+    "objectID": "research/working-papers/peru/index.html#bibtex-citation",
+    "href": "research/working-papers/peru/index.html#bibtex-citation",
+    "title": "Guerrilla Shadows on Gender: The Lingering Effects of the Peruvian Internal Armed Conflict on Women’s Political Aspirations",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@unpublished{castro2025,\n  title={Guerrilla Shadows on Gender: The Lingering Effects of the Peruvian Internal Armed Conflict on Women's Political Aspirations},\n  author={Castro, Francisca},\n  year={2025},\n  note={Working paper}\n}"
   }
 ]
