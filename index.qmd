@@ -15,7 +15,7 @@ about:
       href: https://bsky.app/profile/fcastrog.bsky.social
 ---
 
-My name is Francisca Castro and I'm a Postdoctoral Researcher at the International Security and Development Center ([ISDC](https://isdc.org/)), where I work on conflict and vulnerability of political regimes.
+My name is Francisca Castro and I'm currently Postdoctoral Researcher at the International Security and Development Center ([ISDC](https://isdc.org/)). Starting next year, I'll a visiting professor at Universidad Carlos III de Madrid. 
 
 I'm also associated to the ERC Grant [Participation & Representation in the Digital Age](https://www.prd-erc.eu/).
 
@@ -28,8 +28,6 @@ My research interests are intrastate conflict, protests and social movements, st
 **News & Updates**
 
 - Between December 1-3 I'll be in Nairobi presenting at the Gender, Peace and Security Conference organized by PRIO and hosted by the British Institute in Eastern Africa. 
-
-- Between October 8-12 I'll be in Bishkek (Kyrgyzstan) attending the [Annual Life in Kyrgyzstan conference](https://lifeinkyrgyzstan.org/wp-content/uploads/2025/09/LiK-conference-2025-program.pdf).
 
 - My job market paper, *Deterrence or Defiance? How Severity and Selectivity Shape Protest Responses to Repression* got recently accepted for publication in [Mobilization](https://meridian.allenpress.com/mobilization). You can read the accepted version [here](https://francisca-castro.com/research/articles/state-repression/Deterrence_or_Defiance.pdf).  
 
