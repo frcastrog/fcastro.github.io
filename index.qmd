@@ -15,7 +15,9 @@ about:
       href: https://bsky.app/profile/fcastrog.bsky.social
 ---
 
-My name is Francisca Castro and I'm currently Postdoctoral Researcher at the International Security and Development Center ([ISDC](https://isdc.org/)). Starting next year, I'll a visiting professor at Universidad Carlos III de Madrid. 
+My name is Francisca Castro and I'm currently Postdoctoral Researcher at the International Security and Development Center ([ISDC](https://isdc.org/)). 
+
+In January 2026 I'll start as a visiting professor at Universidad Carlos III de Madrid. 
 
 I'm also associated to the ERC Grant [Participation & Representation in the Digital Age](https://www.prd-erc.eu/).
 
