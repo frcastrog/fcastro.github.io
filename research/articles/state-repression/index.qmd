@@ -5,7 +5,7 @@ author:
   - name: Francisca Castro
     url: https://francisca-castro.com
     orcid: 0000-0002-9547-0130
-    affiliation: Humboldt-Universität zu Berlin
+    affiliation: ISDC - International Security and Development Center
 #categories:
 #  - Human rights
 #  - Civil society
@@ -35,7 +35,7 @@ pub-status:
 
 ## Important links
 
--   {{< fa file-pdf >}} [Paper (Accepted Version)](Deterrence_or_Defiance.pdf)
+-   {{< fa file-pdf >}} [Paper](Castro_2025_Deterrence_or_Defiance.pdf)
 -   <i class="fa-brands fa-github"></i> [GitHub repository](https://github.com/frcastrog/police-repression)
 
 ## Abstract
@@ -47,8 +47,11 @@ State repression's effect on protest behavior is theorized to depend on two key 
 ``` bibtex
 @article{Castro2025,
     Author = {Francisca Castro},
-    Journal = {Mobilization: An International Quarterly},
-    Note = {Forthcoming},
+    Journal = {Mobilization},
     Title = {Deterrence or Defiance? How Severity and Selectivity Shape Protest Responses to Repression},
+    Volume = 30,
+    Number = 4,
+    Pages = 387--408,
+    DOI = 10.17813/1086-671X-30-4-387, 
     Year = {2025}}
 ```
