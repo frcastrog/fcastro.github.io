@@ -6,7 +6,7 @@ about:
   links:
     - icon: envelope
       text: email
-      href: mailto:castro@isdc.org
+      href: mailto:francast@clio.uc3m.es
     - icon: github
       text: github
       href: https://github.com/frcastrog
