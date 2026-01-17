@@ -15,9 +15,9 @@ about:
       href: https://bsky.app/profile/fcastrog.bsky.social
 ---
 
-My name is Francisca Castro and I'm currently Postdoctoral Researcher at the International Security and Development Center ([ISDC](https://isdc.org/)). 
+My name is Francisca Castro and I'm a visiting professor in political science at Universidad Carlos III de Madrid. 
 
-In January 2026 I'll start as a visiting professor at Universidad Carlos III de Madrid. 
+Previously, I was a postdoctoral researcher at the International Security and Development Center ([ISDC](https://isdc.org/)). 
 
 I'm also associated to the ERC Grant [Participation & Representation in the Digital Age](https://www.prd-erc.eu/).
 
@@ -29,5 +29,5 @@ My research interests are intrastate conflict, protests and social movements, st
 
 **News & Updates**
 
-- My job market paper, *Deterrence or Defiance? How Severity and Selectivity Shape Protest Responses to Repression* is forthcoming in the next issue of [Mobilization](https://meridian.allenpress.com/mobilization). You can read it [here](https://francisca-castro.com/research/articles/state-repression/Castro_2025_Deterrence_or_Defiance.pdf).  
+- My job market paper, *Deterrence or Defiance? How Severity and Selectivity Shape Protest Responses to Repression* was published in the last issue of [Mobilization](https://meridian.allenpress.com/mobilization). You can read it open access [here](https://mobilization.kglmeridian.com/view/journals/maiq/30/4/article-p387.xml).  
 
