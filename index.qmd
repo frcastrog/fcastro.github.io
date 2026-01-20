@@ -6,7 +6,7 @@ about:
   links:
     - icon: envelope
       text: email
-      href: mailto:francast@clio.uc3m.es
+      href: mailto:francisca.castro@uc3m.es
     - icon: github
       text: github
       href: https://github.com/frcastrog
@@ -19,11 +19,13 @@ My name is Francisca Castro and I'm a visiting professor in political science at
 
 Previously, I was a postdoctoral researcher at the International Security and Development Center ([ISDC](https://isdc.org/)). 
 
-I'm also associated to the ERC Grant [Participation & Representation in the Digital Age](https://www.prd-erc.eu/).
+I'm also associated to the ERC project [Participation & Representation in the Digital Age](https://www.prd-erc.eu/).
 
-I obtained my PhD in Political Science at Humboldt-Universität zu Berlin, where I worked as a Doctoral Researcher in the Chair of International Politics.
+I obtained my PhD in Political Science from Humboldt-Universität zu Berlin, where I worked as a Doctoral Researcher in the Chair of International Politics.
 
 My research interests are intrastate conflict, protests and social movements, state repression, democratic backsliding, and authoritarian legacies.
+
+You can contact me at **francisca.castro@uc3m.es**
 
 ---
 
