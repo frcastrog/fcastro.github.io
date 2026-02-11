@@ -1,0 +1,69 @@
+---
+title: "External Cues and Policy Preferences: Rethinking the Drivers of Policy Positions"
+date: 2026-02-11
+author:
+  - name: Francisca Castro
+    url: https://francisca-castro.com
+    orcid: 0000-0002-9547-0130
+    affiliation: Universidad Carlos III de Madrid
+  - name: Jennifer Oser
+    url: https://www.jenniferoser.com/
+    orcid: 0000-0002-1531-4606
+    affiliation: Ben-Gurion University of the Negev
+  - name: Fernando Feitosa
+    orcid: 0000-0002-3053-1326
+    affiliation: Griffith University
+  - name: Nir Grinberg
+    url: https://www.nirg.net/
+    orcid: 0000-0002-1277-894X
+    affiliation: Ben-Gurion University of the Negev
+#categories:
+#  - Human rights
+#  - Civil society
+#  - NGO regulations
+#  - COVID-19
+  
+#pub-info:
+#  reference:
+#  links:
+#    - name: PDF
+#      url: acevedo-castro-honduras.pdf
+#      local: true
+#      icon: fa-solid fa-file-pdf
+#    - name: Code
+#      url: https://github.com/andrewheiss/covid-derogations
+#      icon: <i class="fa-brands fa-github"></i>
+#  extra: >-
+#   status: Under review
+#   class: success
+#   icon: fas fa-glasses
+---
+
+## Important links
+
+-   {{< fa file-pdf >}} [Paper](https://academic.oup.com/ijpor/article/38/1/edaf066/8472064)
+-   <i class="fa-brands fa-github"></i> [GitHub repository](https://github.com/frcastrog/external-cues-ijpor)
+
+## Abstract
+
+At a time when the influence of external cues on opinion formation is gaining attention due to their relevance for preference formation, this research note investigates how external cues from political elites and close friends shape individual policy preferences. Building on prior studies by Barber and Pope (2019, 2024) regarding Donald Trump's impact on people's policy preferences during his 2017–2021 presidency, we examine whether this influence persists soon after Trump's first presidential tenure concludes in late 2021 through a survey experiment. We also assess the influence of a second external cue that has gained attention due to the growing role of social media in political processes: a close friend, who might also serve as a relevant figure for policy position formation. We find that Trump's liberal cues shift Republican preferences in a liberal direction, while close friend cues show diverse patterns, including some backlash effects where individuals adopt positions opposite to conservative friend advocacy. These effects vary with individuals' party identification, political knowledge, and social conformity levels. Individual characteristics moderate political elite influence, while peer influence operates through reactance mechanisms rather than conformity, revealing that social networks shape opinions through more complex pathways than commonly theorized.
+
+## BibTeX citation
+
+``` bibtex
+@article{Castro2026,
+    author = {Castro, Francisca and Oser, Jennifer and Feitosa, Fernando and Grinberg, Nir},
+    title = {External Cues and Policy Preferences: Rethinking the Drivers of Policy Positions},
+    journal = {International Journal of Public Opinion Research},
+    volume = {38},
+    number = {1},
+    pages = {edaf066},
+    year = {2026},
+    month = {02},
+    abstract = {At a time when the influence of external cues on opinion formation is gaining attention due to their relevance for preference formation, this research note investigates how external cues from political elites and close friends shape individual policy preferences. Building on prior studies by Barber and Pope (2019, 2024) regarding Donald Trump's impact on people's policy preferences during his 2017–2021 presidency, we examine whether this influence persists soon after Trump's first presidential tenure concludes in late 2021 through a survey experiment. We also assess the influence of a second external cue that has gained attention due to the growing role of social media in political processes: a close friend, who might also serve as a relevant figure for policy position formation. We find that Trump's liberal cues shift Republican preferences in a liberal direction, while close friend cues show diverse patterns, including some backlash effects where individuals adopt positions opposite to conservative friend advocacy. These effects vary with individuals' party identification, political knowledge, and social conformity levels. Individual characteristics moderate political elite influence, while peer influence operates through reactance mechanisms rather than conformity, revealing that social networks shape opinions through more complex pathways than commonly theorized.},
+    issn = {1471-6909},
+    doi = {10.1093/ijpor/edaf066},
+    url = {https://doi.org/10.1093/ijpor/edaf066},
+    eprint = {https://academic.oup.com/ijpor/article-pdf/38/1/edaf066/66847651/edaf066.pdf},
+}
+```

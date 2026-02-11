@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -31,13 +31,14 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-2fef5ea3f8957b3e4ecc936fc74692ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-707d8167ce6003fca903bfe2be84ab7f.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-ebd8daedd9a06b75d3ddf6b0552b5a29.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-e7642b8c64b536800fe412d2d8cc5271.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -88,6 +89,8 @@ gtag('config', 'G-0W2PBTWYQ6', { 'anonymize_ip': true});
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Francisca Castro</span>
     </a>
@@ -157,7 +160,8 @@ gtag('config', 'G-0W2PBTWYQ6', { 'anonymize_ip': true});
 <hr>
 <p><strong>News &amp; Updates</strong></p>
 <ul>
-<li>My job market paper, <em>Deterrence or Defiance? How Severity and Selectivity Shape Protest Responses to Repression</em> was published in the last issue of <a href="https://meridian.allenpress.com/mobilization">Mobilization</a>. You can read it open access <a href="https://mobilization.kglmeridian.com/view/journals/maiq/30/4/article-p387.xml">here</a>.</li>
+<li><p>Our paper <a href="https://academic.oup.com/ijpor/article/38/1/edaf066/8472064">External Cues and Policy Preferences: Rethinking the Drivers of Policy Positions</a> just got published open access at the International Journal of Public Opinion Research.</p></li>
+<li><p>My job market paper, <em>Deterrence or Defiance? How Severity and Selectivity Shape Protest Responses to Repression</em> was published in the last issue of <a href="https://meridian.allenpress.com/mobilization">Mobilization</a>. You can read it open access <a href="https://mobilization.kglmeridian.com/view/journals/maiq/30/4/article-p387.xml">here</a>.</p></li>
 </ul>
 
 
@@ -208,13 +212,14 @@ gtag('config', 'G-0W2PBTWYQ6', { 'anonymize_ip': true});
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

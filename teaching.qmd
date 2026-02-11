@@ -4,17 +4,16 @@ title: "Teaching"
 
 ### Universidad Carlos III de Madrid
 
-- Research Methodology in Political Science (Winter 2026)
+-   [Research Methodology in Political Science](Syllabus_Tecnicas_de_investigacion_en_CP.pdf) (Winter 2026)
 
-- Methodology of Political Science (Winter 2026)
-
-- Research Techniques in Political Science (Winter 2026)
+-   [Methodology of Political Science](Syllabus_Metodologia_en_CP.pdf) (Winter 2026)
 
 ### Humboldt-Universität zu Berlin
 
 -   [Conflict in Latin America: A Century of Turmoil](Syllabus_LATAM_SoSe_2024.pdf) (Spring 2024)
 
 -   Comparative Politics and International Relations (Undergraduate Seminar, Fall 2020-21, 2021-22, 2022-23, 2023-24)
+
 -   [Collective Political Violence](Syllabus_CPV.pdf) (Undergraduate Seminar, Spring 2021 and 2023)
 
 ### Hertie School of Government (Teaching Assistant)

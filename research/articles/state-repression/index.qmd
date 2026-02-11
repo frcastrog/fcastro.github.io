@@ -1,6 +1,6 @@
 ---
 title: "Deterrence or Defiance? How Severity and Selectivity Shape Protest Responses to Repression"
-date: 2025-07-21
+date: 2025-12-23
 author:
   - name: Francisca Castro
     url: https://francisca-castro.com
