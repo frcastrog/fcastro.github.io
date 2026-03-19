@@ -5,11 +5,14 @@ listing:
     contents: "articles/*/index.qmd"
     sort: "date desc"
     categories: true
+    fields: [date, title, pub-journal]
   - id: working-papers
     contents: "working-papers/*/index.qmd"
     sort: "date desc"
+    fields: [date, title]
   - id: book-chapters
     contents: "chapters/*/index.qmd"
+    fields: [date, title]
     sort: "date desc"
 page-layout: full
 include-back-link: false

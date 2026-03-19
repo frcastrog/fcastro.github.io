@@ -1,6 +1,7 @@
 ---
 title: "Between Social Protests and a Global Pandemic: Working Transitions under the Economic Effects of COVID-19"
 date: 2021-04-20
+pub-journal: "Social Sciences"
 author:
   - name: Valentina Rivera
     orcid: 0000-0002-8736-9788

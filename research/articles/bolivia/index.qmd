@@ -1,6 +1,7 @@
 ---
 title: "Does electoral behavior change after a protest cycle? Evidence from Chile and Bolivia"
 date: 2024-04-16
+pub-journal: "Electoral Studies"
 author:
   - name: Francisca Castro
     url: https://francisca-castro.com

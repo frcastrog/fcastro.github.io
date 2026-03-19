@@ -1,6 +1,13 @@
 ---
 title: "External Cues and Policy Preferences: Rethinking the Drivers of Policy Positions"
 date: 2026-02-11
+pub-journal: "International Journal of Public Opinion Research"
+citation:
+  container-title: "International Journal of Public Opinion Research"
+  url: "https://doi.org/10.1093/ijpor/edaf066"
+  volume: 38
+  issue: 1
+  doi: "10.1093/ijpor/edaf066"
 author:
   - name: Francisca Castro
     url: https://francisca-castro.com
@@ -48,22 +55,4 @@ author:
 
 At a time when the influence of external cues on opinion formation is gaining attention due to their relevance for preference formation, this research note investigates how external cues from political elites and close friends shape individual policy preferences. Building on prior studies by Barber and Pope (2019, 2024) regarding Donald Trump's impact on people's policy preferences during his 2017–2021 presidency, we examine whether this influence persists soon after Trump's first presidential tenure concludes in late 2021 through a survey experiment. We also assess the influence of a second external cue that has gained attention due to the growing role of social media in political processes: a close friend, who might also serve as a relevant figure for policy position formation. We find that Trump's liberal cues shift Republican preferences in a liberal direction, while close friend cues show diverse patterns, including some backlash effects where individuals adopt positions opposite to conservative friend advocacy. These effects vary with individuals' party identification, political knowledge, and social conformity levels. Individual characteristics moderate political elite influence, while peer influence operates through reactance mechanisms rather than conformity, revealing that social networks shape opinions through more complex pathways than commonly theorized.
 
-## BibTeX citation
 
-``` bibtex
-@article{Castro2026,
-    author = {Castro, Francisca and Oser, Jennifer and Feitosa, Fernando and Grinberg, Nir},
-    title = {External Cues and Policy Preferences: Rethinking the Drivers of Policy Positions},
-    journal = {International Journal of Public Opinion Research},
-    volume = {38},
-    number = {1},
-    pages = {edaf066},
-    year = {2026},
-    month = {02},
-    abstract = {At a time when the influence of external cues on opinion formation is gaining attention due to their relevance for preference formation, this research note investigates how external cues from political elites and close friends shape individual policy preferences. Building on prior studies by Barber and Pope (2019, 2024) regarding Donald Trump's impact on people's policy preferences during his 2017–2021 presidency, we examine whether this influence persists soon after Trump's first presidential tenure concludes in late 2021 through a survey experiment. We also assess the influence of a second external cue that has gained attention due to the growing role of social media in political processes: a close friend, who might also serve as a relevant figure for policy position formation. We find that Trump's liberal cues shift Republican preferences in a liberal direction, while close friend cues show diverse patterns, including some backlash effects where individuals adopt positions opposite to conservative friend advocacy. These effects vary with individuals' party identification, political knowledge, and social conformity levels. Individual characteristics moderate political elite influence, while peer influence operates through reactance mechanisms rather than conformity, revealing that social networks shape opinions through more complex pathways than commonly theorized.},
-    issn = {1471-6909},
-    doi = {10.1093/ijpor/edaf066},
-    url = {https://doi.org/10.1093/ijpor/edaf066},
-    eprint = {https://academic.oup.com/ijpor/article-pdf/38/1/edaf066/66847651/edaf066.pdf},
-}
-```
