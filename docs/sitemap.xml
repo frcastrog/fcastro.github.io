@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://francisca-castro.com/index.html</loc>
-    <lastmod>2026-02-11T18:38:47.552Z</lastmod>
+    <lastmod>2026-04-23T15:53:53.804Z</lastmod>
   </url>
   <url>
     <loc>https://francisca-castro.com/teaching.html</loc>
@@ -39,5 +39,9 @@
   <url>
     <loc>https://francisca-castro.com/research/articles/covid-19/index.html</loc>
     <lastmod>2026-03-19T19:34:42.337Z</lastmod>
+  </url>
+  <url>
+    <loc>https://francisca-castro.com/research/articles/honduras/index.html</loc>
+    <lastmod>2026-04-23T15:50:18.678Z</lastmod>
   </url>
 </urlset>

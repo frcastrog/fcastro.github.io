@@ -1,0 +1,23 @@
+---
+title: "The Mobilizing Potential of Mass Emigration: Experimental Evidence from Honduras"
+date: 2026-04-23
+pub-journal: "The Journal of Politics"
+author:
+  - name: Jesse Acevedo
+    url: https://https://www.j-acevedo.com/
+    orcid: 0000-0002-2897-6457
+    affiliation: University of Denver
+  - name: Francisca Castro
+    url: https://francisca-castro.com
+    orcid: 0000-0002-9547-0130
+    affiliation: Universidad Carlos III de Madrid
+---
+
+## Important links
+
+-   {{< fa file-pdf >}} [Accepted Paper](The_mobilizing_potential_of_mass_emigration.pdf)
+-   [Harvard Database Repository](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CEO1KJ&version=DRAFT)
+
+## Abstract
+
+Does mass emigration affect the political attitudes among those who stay in the country? Emigration, being a personal decision made by households, can accumulate into a collective expression of discontent against the status quo. This paper examines whether large-scale emigration affects protest support and participation. Using a survey experiment conducted in Honduras, we assess how the salience of emigration affected public opinion about anti-government demonstrations in 2021. Our findings reveal that respondents primed with information about mass emigration expressed more favorable views toward protests and showed a greater propensity to participate in demonstrations. Estimated effects are larger for respondents residing farther from caravan routes. This supports an information‑saturation mechanism and suggests that emigration information acts as a coordination signal that reduces uncertainty about the scope of shared grievances. These findings show that mass emigration can strengthen political dissent among those who remain.
