@@ -15,8 +15,8 @@ author:
 
 ## Important links
 
--   {{< fa file-pdf >}} [Accepted Paper](The_mobilizing_potential_of_mass_emigration.pdf)
--   [Harvard Database Repository](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CEO1KJ&version=DRAFT)
+- {{< fa file-pdf >}} [Accepted Paper](The_mobilizing_potential_of_mass_emigration.pdf)
+- [Harvard Database Repository](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CEO1KJ&version=DRAFT)
 
 ## Abstract
 
