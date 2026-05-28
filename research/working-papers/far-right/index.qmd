@@ -1,0 +1,38 @@
+---
+title: "Do memory sites influence far-right vote? Evidence from Chile"
+date: 2026-05-28
+# pub-journal: "International Journal of Public Opinion Research"
+author:
+  - name: Francisca Castro
+    url: https://francisca-castro.com
+    orcid: 0000-0002-9547-0130
+    affiliation: Universidad Carlos III de Madrid
+#categories:
+#  - Human rights
+#  - Civil society
+#  - NGO regulations
+#  - COVID-19
+  
+#pub-info:
+#  reference:
+#  links:
+#    - name: PDF
+#      url: acevedo-castro-honduras.pdf
+#      local: true
+#      icon: fa-solid fa-file-pdf
+#    - name: Code
+#      url: https://github.com/andrewheiss/covid-derogations
+#      icon: <i class="fa-brands fa-github"></i>
+#  extra: >-
+#   status: Under review
+#   class: success
+#   icon: fas fa-glasses
+---
+
+## Important links
+
+- {{< fa file-pdf >}} [Working Paper](Memory_sites_and_far_right_vote.pdf)
+
+## Abstract
+
+Chile maintains a comprehensive registry of over 1,000 spaces where human rights violations were committed during Pinochet's dictatorship. This registry includes sites that have been officially designated as memory sites by the state. In this paper, I examine whether proximity to memory sites affects far-right electoral support. Using a difference-in-differences design that compares voting locations near memory sites to those farther away across the 2021 and 2025 presidential elections, I find that proximity to memory sites is associated with a reduction in the far-right *Partido Republicano* vote share of approximately 1.0--1.5 percentage points in the 100m--1km range, with the effect attenuating beyond that. At the same time, proximity is associated with a modest increase in support for the *Partido Nacional Libertario*, a more recently founded far-right party with more populist overtones than authoritarian nostalgia. These findings complicate the notion that official commemoration of past authoritarian violence deters far-right mobilization: memory sites appear to penalize the party most directly tied to the dictatorship while leaving a more populist alternative unscathed.

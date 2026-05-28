@@ -151,7 +151,7 @@
     "href": "research/index.html#working-papers",
     "title": "Research",
     "section": "Working papers",
-    "text": "Working papers\n\n\n\n\n\nGuerrilla Shadows on Gender: The Lingering Effects of the Peruvian Internal Armed Conflict on Women’s Political Aspirations\n\n\n\n\n\nSep 21, 2025\n\n\n\n\n\n\n\nCarrying the Past with you Across the Border: Long-term Effects of Conflict and Environmental Stress Exposure in Syria on the Social Well-being of Refugees in Jordan\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\nNo matching items"
+    "text": "Working papers\n\n\n\n\n\nDo memory sites influence far-right vote? Evidence from Chile\n\n\n\n\n\nMay 28, 2026\n\n\n\n\n\n\n\nGuerrilla Shadows on Gender: The Lingering Effects of the Peruvian Internal Armed Conflict on Women’s Political Aspirations\n\n\n\n\n\nSep 21, 2025\n\n\n\n\n\n\n\nCarrying the Past with you Across the Border: Long-term Effects of Conflict and Environmental Stress Exposure in Syria on the Social Well-being of Refugees in Jordan\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/index.html#book-chapters",
@@ -299,5 +299,26 @@
     "title": "The Mobilizing Potential of Mass Emigration: Experimental Evidence from Honduras",
     "section": "Abstract",
     "text": "Abstract\nDoes mass emigration affect the political attitudes among those who stay in the country? Emigration, being a personal decision made by households, can accumulate into a collective expression of discontent against the status quo. This paper examines whether large-scale emigration affects protest support and participation. Using a survey experiment conducted in Honduras, we assess how the salience of emigration affected public opinion about anti-government demonstrations in 2021. Our findings reveal that respondents primed with information about mass emigration expressed more favorable views toward protests and showed a greater propensity to participate in demonstrations. Estimated effects are larger for respondents residing farther from caravan routes. This supports an information‑saturation mechanism and suggests that emigration information acts as a coordination signal that reduces uncertainty about the scope of shared grievances. These findings show that mass emigration can strengthen political dissent among those who remain."
+  },
+  {
+    "objectID": "research/working-papers/far-right/index.html",
+    "href": "research/working-papers/far-right/index.html",
+    "title": "Do memory sites influence far-right vote? Evidence from Chile",
+    "section": "",
+    "text": "Working Paper"
+  },
+  {
+    "objectID": "research/working-papers/far-right/index.html#important-links",
+    "href": "research/working-papers/far-right/index.html#important-links",
+    "title": "Do memory sites influence far-right vote? Evidence from Chile",
+    "section": "",
+    "text": "Working Paper"
+  },
+  {
+    "objectID": "research/working-papers/far-right/index.html#abstract",
+    "href": "research/working-papers/far-right/index.html#abstract",
+    "title": "Do memory sites influence far-right vote? Evidence from Chile",
+    "section": "Abstract",
+    "text": "Abstract\nChile maintains a comprehensive registry of over 1,000 spaces where human rights violations were committed during Pinochet’s dictatorship. This registry includes sites that have been officially designated as memory sites by the state. In this paper, I examine whether proximity to memory sites affects far-right electoral support. Using a difference-in-differences design that compares voting locations near memory sites to those farther away across the 2021 and 2025 presidential elections, I find that proximity to memory sites is associated with a reduction in the far-right Partido Republicano vote share of approximately 1.0–1.5 percentage points in the 100m–1km range, with the effect attenuating beyond that. At the same time, proximity is associated with a modest increase in support for the Partido Nacional Libertario, a more recently founded far-right party with more populist overtones than authoritarian nostalgia. These findings complicate the notion that official commemoration of past authoritarian violence deters far-right mobilization: memory sites appear to penalize the party most directly tied to the dictatorship while leaving a more populist alternative unscathed."
   }
 ]
