@@ -137,14 +137,14 @@
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "Apr 23, 2026\n\n\nThe Journal of Politics\n\n\n\n\n\n\n\n\n\n\n\nFeb 11, 2026\n\n\nInternational Journal of Public Opinion Research\n\n\n\n\n\n\n\n\n\n\n\nDec 23, 2025\n\n\nMobilization\n\n\n\n\n\n\n\n\n\n\n\nApr 16, 2024\n\n\nElectoral Studies\n\n\n\n\n\n\n\n\n\n\n\nApr 20, 2021\n\n\nSocial Sciences\n\n\n\n\n\nNo matching items"
+    "text": "Jul 6, 2026\n\n\nHumanities and Social Sciences Communications\n\n\n\n\n\n\n\n\n\n\n\nApr 23, 2026\n\n\nThe Journal of Politics\n\n\n\n\n\n\n\n\n\n\n\nFeb 11, 2026\n\n\nInternational Journal of Public Opinion Research\n\n\n\n\n\n\n\n\n\n\n\nDec 23, 2025\n\n\nMobilization\n\n\n\n\n\n\n\n\n\n\n\nApr 16, 2024\n\n\nElectoral Studies\n\n\n\n\n\n\n\n\n\n\n\nApr 20, 2021\n\n\nSocial Sciences\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/index.html#journal-articles",
     "href": "research/index.html#journal-articles",
     "title": "Research",
     "section": "",
-    "text": "Apr 23, 2026\n\n\nThe Journal of Politics\n\n\n\n\n\n\n\n\n\n\n\nFeb 11, 2026\n\n\nInternational Journal of Public Opinion Research\n\n\n\n\n\n\n\n\n\n\n\nDec 23, 2025\n\n\nMobilization\n\n\n\n\n\n\n\n\n\n\n\nApr 16, 2024\n\n\nElectoral Studies\n\n\n\n\n\n\n\n\n\n\n\nApr 20, 2021\n\n\nSocial Sciences\n\n\n\n\n\nNo matching items"
+    "text": "Jul 6, 2026\n\n\nHumanities and Social Sciences Communications\n\n\n\n\n\n\n\n\n\n\n\nApr 23, 2026\n\n\nThe Journal of Politics\n\n\n\n\n\n\n\n\n\n\n\nFeb 11, 2026\n\n\nInternational Journal of Public Opinion Research\n\n\n\n\n\n\n\n\n\n\n\nDec 23, 2025\n\n\nMobilization\n\n\n\n\n\n\n\n\n\n\n\nApr 16, 2024\n\n\nElectoral Studies\n\n\n\n\n\n\n\n\n\n\n\nApr 20, 2021\n\n\nSocial Sciences\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/index.html#working-papers",
@@ -320,5 +320,26 @@
     "title": "Do memory sites influence far-right vote? Evidence from Chile",
     "section": "Abstract",
     "text": "Abstract\nChile maintains a comprehensive registry of over 1,000 spaces where human rights violations were committed during Pinochet’s dictatorship. This registry includes sites that have been officially designated as memory sites by the state. In this paper, I examine whether proximity to memory sites affects far-right electoral support. Using a difference-in-differences design that compares voting locations near memory sites to those farther away across the 2021 and 2025 presidential elections, I find that proximity to memory sites is associated with a reduction in the far-right Partido Republicano vote share of approximately 1.0–1.5 percentage points in the 100m–1km range, with the effect attenuating beyond that. At the same time, proximity is associated with a modest increase in support for the Partido Nacional Libertario, a more recently founded far-right party with more populist overtones than authoritarian nostalgia. These findings complicate the notion that official commemoration of past authoritarian violence deters far-right mobilization: memory sites appear to penalize the party most directly tied to the dictatorship while leaving a more populist alternative unscathed."
+  },
+  {
+    "objectID": "research/articles/soc-movements/index.html",
+    "href": "research/articles/soc-movements/index.html",
+    "title": "Social movements and social media: the evolution of scholarship in the age of datafication",
+    "section": "",
+    "text": "Paper"
+  },
+  {
+    "objectID": "research/articles/soc-movements/index.html#important-links",
+    "href": "research/articles/soc-movements/index.html#important-links",
+    "title": "Social movements and social media: the evolution of scholarship in the age of datafication",
+    "section": "",
+    "text": "Paper"
+  },
+  {
+    "objectID": "research/articles/soc-movements/index.html#abstract",
+    "href": "research/articles/soc-movements/index.html#abstract",
+    "title": "Social movements and social media: the evolution of scholarship in the age of datafication",
+    "section": "Abstract",
+    "text": "Abstract\nThe evolution of social movements in the age of datafication has challenged prevailing social movement theories. Contrary to scholarly forecasts, datafication empowered social movements by reducing the cost of participation and removing barriers to disseminating information, while also facilitating authoritarianism and imposing new constraints on movements’ organizational dynamics and long-term impact. While literature reviews of the field suggest that these gaps have largely been overcome, little is known about how the field as a whole has evolved to address these questions. Using bibliometric tools to visualize and analyze a dataset of 6701 studies on social media and social movements published between 2005 and 2023, we identify the canonical literature, research approaches, and research methods used to study these developments. Our findings highlight a consistent scarcity in experimental research that isolates causal mechanisms, and we point to experimental work in related fields that could advance this line of research. We conclude by discussing opportunities for next-step research that emerge from our findings, including the use of big data analysis as well as qualitative and experimental studies to address unresolved questions about social movements in the age of datafication."
   }
 ]

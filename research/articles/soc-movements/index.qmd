@@ -1,0 +1,45 @@
+---
+title: "Social movements and social media: the evolution of scholarship in the age of datafication"
+date: 2026-07-06
+pub-journal: "Humanities and Social Sciences Communications"
+author:
+  - name: Aya Shoshan
+    orcid: 0000-0002-8887-0144
+    affiliation: Ben-Gurion University of the Negev
+  - name: Jennifer Oser
+    url: https://www.jenniferoser.com/
+    orcid: 0000-0002-1531-4606
+    affiliation: Ben-Gurion University of the Negev
+  - name: Francisca Castro
+    url: https://francisca-castro.com
+    orcid: 0000-0002-9547-0130
+    affiliation: Universidad Carlos III de Madrid
+#categories:
+#  - Human rights
+#  - Civil society
+#  - NGO regulations
+#  - COVID-19
+  
+#pub-info:
+#  reference:
+#  links:
+#    - name: PDF
+#      url: acevedo-castro-honduras.pdf
+#      local: true
+#      icon: fa-solid fa-file-pdf
+#    - name: Code
+#      url: https://github.com/andrewheiss/covid-derogations
+#      icon: <i class="fa-brands fa-github"></i>
+#  extra: >-
+#   status: Under review
+#   class: success
+#   icon: fas fa-glasses
+---
+
+## Important links
+
+- {{< fa file-pdf >}} [Paper](https://doi.org/10.1057/s41599-026-07128-9)
+
+## Abstract
+
+The evolution of social movements in the age of datafication has challenged prevailing social movement theories. Contrary to scholarly forecasts, datafication empowered social movements by reducing the cost of participation and removing barriers to disseminating information, while also facilitating authoritarianism and imposing new constraints on movements’ organizational dynamics and long-term impact. While literature reviews of the field suggest that these gaps have largely been overcome, little is known about how the field as a whole has evolved to address these questions. Using bibliometric tools to visualize and analyze a dataset of 6701 studies on social media and social movements published between 2005 and 2023, we identify the canonical literature, research approaches, and research methods used to study these developments. Our findings highlight a consistent scarcity in experimental research that isolates causal mechanisms, and we point to experimental work in related fields that could advance this line of research. We conclude by discussing opportunities for next-step research that emerge from our findings, including the use of big data analysis as well as qualitative and experimental studies to address unresolved questions about social movements in the age of datafication.
