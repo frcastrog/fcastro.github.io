@@ -82,6 +82,7 @@ gtag('config', 'G-0W2PBTWYQ6', { 'anonymize_ip': true});
 
 
 <link rel="stylesheet" href="bootstrap.min.css">
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -160,10 +161,24 @@ gtag('config', 'G-0W2PBTWYQ6', { 'anonymize_ip': true});
 <hr>
 <p><strong>News &amp; Updates</strong></p>
 <ul>
-<li><p>On December 1st I will present in the Fall Series of the Authoritarian Political Systems Group. You can check the full line-up <a href="https://bsky.app/profile/apsgworkshop.bsky.social/post/3mtcma5y3uc2v">here</a>.</p></li>
 <li><p>Our article with Aya Shoshan and Jennifer Oser, titled <a href="https://www.nature.com/articles/s41599-026-07128-9">Social movements and social media: the evolution of scholarship in the age of datafication</a>, was just published at Humanities &amp; Social Sciences Communications.</p></li>
 <li><p>Our paper <strong>The Mobilizing Potential of Mass Emigration: Experimental Evidence from Honduras</strong> was accepted for publication at the Journal of Politics. You can read the accepted version <a href="https://www.journals.uchicago.edu/doi/10.1086/742109">here</a>.</p></li>
 </ul>
+<div id="upcoming-talks">
+<hr>
+<p><strong>Upcoming Talks</strong></p>
+<ul>
+<li><p><strong>9 November 2026.</strong> Center for Human Rights and Democracy, Georgia State University.</p></li>
+<li><p><strong>1 December 2026.</strong> Fall Series of the Authoritarian Political Systems Group. Full line-up <a href="https://bsky.app/profile/apsgworkshop.bsky.social/post/3mtcma5y3uc2v">here</a>.</p></li>
+</ul>
+</div>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const talks = document.getElementById("upcoming-talks");
+  const leftColumn = document.querySelector(".about-entity");
+  if (talks && leftColumn) leftColumn.appendChild(talks);
+});
+</script>
 
 
 </main></div>

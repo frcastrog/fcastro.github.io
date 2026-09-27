@@ -21,7 +21,8 @@ website:
 format:
   html:
     theme: solar
-    css: bootstrap.min.css
+    css:
+      - bootstrap.min.css
+      - styles.css
     toc: true
-
 editor: visual
