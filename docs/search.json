@@ -151,7 +151,7 @@
     "href": "research/index.html#working-papers",
     "title": "Research",
     "section": "Working papers",
-    "text": "Working papers\n\n\n\n\n\nDo memory sites influence far-right vote? Evidence from Chile\n\n\n\n\n\nOct 22, 2026\n\n\n\n\n\n\n\nGuerrilla Shadows on Gender: The Lingering Effects of the Peruvian Internal Armed Conflict on Women’s Political Inclusion\n\n\n\n\n\nSep 21, 2025\n\n\n\n\n\n\n\nCarrying the Past with you Across the Border: Long-term Effects of Conflict and Environmental Stress Exposure in Syria on the Social Well-being of Refugees in Jordan\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\nNo matching items"
+    "text": "Working papers\n\n\n\n\n\nFuel Scarcity and Social Mobilization in Bolivia\n\n\n\n\n\nOct 28, 2026\n\n\n\n\n\n\n\nDo memory sites influence far-right vote? Evidence from Chile\n\n\n\n\n\nOct 22, 2026\n\n\n\n\n\n\n\nGuerrilla Shadows on Gender: The Lingering Effects of the Peruvian Internal Armed Conflict on Women’s Political Inclusion\n\n\n\n\n\nSep 21, 2025\n\n\n\n\n\n\n\nCarrying the Past with you Across the Border: Long-term Effects of Conflict and Environmental Stress Exposure in Syria on the Social Well-being of Refugees in Jordan\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/index.html#book-chapters",
@@ -341,5 +341,26 @@
     "title": "Social movements and social media: the evolution of scholarship in the age of datafication",
     "section": "Abstract",
     "text": "Abstract\nThe evolution of social movements in the age of datafication has challenged prevailing social movement theories. Contrary to scholarly forecasts, datafication empowered social movements by reducing the cost of participation and removing barriers to disseminating information, while also facilitating authoritarianism and imposing new constraints on movements’ organizational dynamics and long-term impact. While literature reviews of the field suggest that these gaps have largely been overcome, little is known about how the field as a whole has evolved to address these questions. Using bibliometric tools to visualize and analyze a dataset of 6701 studies on social media and social movements published between 2005 and 2023, we identify the canonical literature, research approaches, and research methods used to study these developments. Our findings highlight a consistent scarcity in experimental research that isolates causal mechanisms, and we point to experimental work in related fields that could advance this line of research. We conclude by discussing opportunities for next-step research that emerge from our findings, including the use of big data analysis as well as qualitative and experimental studies to address unresolved questions about social movements in the age of datafication."
+  },
+  {
+    "objectID": "research/working-papers/bolivia/index.html",
+    "href": "research/working-papers/bolivia/index.html",
+    "title": "Fuel Scarcity and Social Mobilization in Bolivia",
+    "section": "",
+    "text": "Working Paper"
+  },
+  {
+    "objectID": "research/working-papers/bolivia/index.html#important-links",
+    "href": "research/working-papers/bolivia/index.html#important-links",
+    "title": "Fuel Scarcity and Social Mobilization in Bolivia",
+    "section": "",
+    "text": "Working Paper"
+  },
+  {
+    "objectID": "research/working-papers/bolivia/index.html#abstract",
+    "href": "research/working-papers/bolivia/index.html#abstract",
+    "title": "Fuel Scarcity and Social Mobilization in Bolivia",
+    "section": "Abstract",
+    "text": "Abstract\nAlthough fuel price shocks are a well-documented source of social unrest, it is less clear whether fuel shortages have the same effect. Bolivia’s 2026 fuel crisis offers a test of this question, since a severe and geographically uneven shortage coincided with 54 days of roadblocks, the most common form of protest in the Andean country. I combine blockade reports recorded by the national road authority with daily fuel balances at service stations to build a station-week panel, and test whether stations holding less fuel than usual, or running out of it more often, saw more blockades nearby than other stations in the same week. Count models with station and week effects show no such relationship, for new blockades or for blocked section-days, at any lag up to two weeks. These results hold after accounting for selective reporting and reverse causation, and also in areas with a denser organizational capacity. Blockades instead began where roads had been blocked before, largely following the density of the road network, a finding that is relevant for anticipating where social unrest might occur as a result of international shocks that affect the supply of staple goods."
   }
 ]

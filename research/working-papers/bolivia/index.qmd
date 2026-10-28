@@ -1,0 +1,38 @@
+---
+title: "Fuel Scarcity and Social Mobilization in Bolivia"
+date: 2026-10-28
+# pub-journal: "International Journal of Public Opinion Research"
+author:
+  - name: Francisca Castro
+    url: https://francisca-castro.com
+    orcid: 0000-0002-9547-0130
+    affiliation: Universidad Carlos III de Madrid
+#categories:
+#  - Human rights
+#  - Civil society
+#  - NGO regulations
+#  - COVID-19
+  
+#pub-info:
+#  reference:
+#  links:
+#    - name: PDF
+#      url: acevedo-castro-honduras.pdf
+#      local: true
+#      icon: fa-solid fa-file-pdf
+#    - name: Code
+#      url: https://github.com/andrewheiss/covid-derogations
+#      icon: <i class="fa-brands fa-github"></i>
+#  extra: >-
+#   status: Under review
+#   class: success
+#   icon: fas fa-glasses
+---
+
+## Important links
+
+- {{< fa file-pdf >}} [Working Paper](Bolivia_road_blockages.pdf)
+
+## Abstract
+
+Although fuel price shocks are a well-documented source of social unrest, it is less clear whether fuel shortages have the same effect. Bolivia's 2026 fuel crisis offers a test of this question, since a severe and geographically uneven shortage coincided with 54 days of roadblocks, the most common form of protest in the Andean country. I combine blockade reports recorded by the national road authority with daily fuel balances at service stations to build a station-week panel, and test whether stations holding less fuel than usual, or running out of it more often, saw more blockades nearby than other stations in the same week. Count models with station and week effects show no such relationship, for new blockades or for blocked section-days, at any lag up to two weeks. These results hold after accounting for selective reporting and reverse causation, and also in areas with a denser organizational capacity. Blockades instead began where roads had been blocked before, largely following the density of the road network, a finding that is relevant for anticipating where social unrest might occur as a result of international shocks that affect the supply of staple goods.
